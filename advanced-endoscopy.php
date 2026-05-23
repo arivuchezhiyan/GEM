@@ -787,7 +787,7 @@
     <div class="service-details-surgery rts-section-gap">
         <div class="container">
             <div class="row">
-                <div class="col-lg-9 pr--40 pr_md--10 pr_sm--15">
+                <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
                             <img src="assets/images/service/10.webp" alt="Advanced Endoscopy at GEM Hospital"

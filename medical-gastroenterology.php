@@ -713,7 +713,7 @@
     <div class="service-details-surgery rts-section-gap">
         <div class="container">
             <div class="row">
-                <div class="col-lg-9 pr--40 pr_md--10 pr_sm--15">
+                <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
                             <img src="assets/images/service/10.webp" alt="Medical Gastroenterology at GEM Hospital">
@@ -819,7 +819,7 @@
 
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 order-lg-1">
 
                     <!-- Card 1: Book Appointment -->
                     <div class="gem-sidebar-card gem-appt-card">
