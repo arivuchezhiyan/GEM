@@ -562,8 +562,17 @@
             width: 20px;
             height: 20px;
             object-fit: contain;
-            filter: invert(22%) sepia(100%) saturate(455%) hue-rotate(110deg) brightness(35%) contrast(95%);
+            filter: brightness(0) invert(22%) sepia(100%) saturate(455%) hue-rotate(110deg) brightness(35%) contrast(95%);
             transition: filter 0.3s ease;
+        }
+        .ugi-diag-icon img.large-icon {
+            width: 32px;
+            height: 32px;
+        }
+        .ugi-diag-icon img.laparoscopic-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
         }
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255,255,255,0.15);
@@ -801,11 +810,11 @@
                                 <p>TAMIS / TEM Procedures</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/52.png" alt="Upper G.I Endoscopy (OGD)"></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/55.png" class="laparoscopic-icon" alt="Upper G.I Endoscopy (OGD)"></div>
                                 <p>4K Laparoscopic Resection</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" alt="Anal Manometry Lab"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" class="large-icon" alt="Anal Manometry Lab"></div>
                                 <p>Anal Manometry Lab</p>
                             </div>
                             <div class="ugi-diag-card">
