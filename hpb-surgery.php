@@ -73,6 +73,7 @@
         .gem-appt-icon-ring i {
             font-size: 26px;
             color: #fff;
+            animation: heartbeat 1.4s ease-in-out infinite;
         }
         .gem-appt-card h4 {
             color: #fff;
@@ -901,7 +902,7 @@
                     <div class="gem-sidebar-card gem-appt-card">
                         <div class="gem-appt-glow"></div>
                         <div class="gem-appt-icon-ring">
-                            <i class="fa-solid fa-calendar-check"></i>
+                            <i class="fa-solid fa-heartbeat"></i>
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
@@ -928,19 +929,6 @@
                             <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
                             <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
                         </ul>
-                    </div>
-
-                    <!-- Card 3: Trust CTA -->
-                    <div class="gem-sidebar-card gem-trust-card">
-                        <div class="gem-trust-bg"></div>
-                        <div class="gem-trust-content">
-                            <i class="fa-solid fa-heartbeat gem-trust-icon"></i>
-                            <h4>Your Health, Our Priority</h4>
-                            <p>Expert surgical care you can trust &mdash; every step of the way.</p>
-                            <a href="appoinment.php" class="gem-sidebar-btn gem-sidebar-btn-white">
-                                Book Appointment
-                            </a>
-                        </div>
                     </div>
 
                     <!-- Card 4: Surgeries Performed -->

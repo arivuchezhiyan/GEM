@@ -80,6 +80,7 @@
         .gem-appt-icon-ring i {
             font-size: 26px;
             color: #fff;
+            animation: heartbeat 1.4s ease-in-out infinite;
         }
 
         .gem-appt-card h4 {
@@ -967,7 +968,7 @@
                     <div class="gem-sidebar-card gem-appt-card">
                         <div class="gem-appt-glow"></div>
                         <div class="gem-appt-icon-ring">
-                            <i class="fa-solid fa-calendar-check"></i>
+                            <i class="fa-solid fa-heartbeat"></i>
                         </div>
                         <h4>Book Appointment</h4>
                         <p>Get expert care from our specialist doctors. Quick, easy, and hassle-free.</p>
