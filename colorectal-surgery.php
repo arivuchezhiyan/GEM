@@ -574,6 +574,25 @@
             height: 20px;
             transform: scale(3.5);
         }
+
+        .ugi-diag-icon img.nbi-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
+        .ugi-diag-icon img.esophageal-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
+        .ugi-diag-icon img.ogd-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255,255,255,0.15);
         }
@@ -810,7 +829,7 @@
                                 <p>TAMIS / TEM Procedures</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/55.png" class="laparoscopic-icon" alt="Upper G.I Endoscopy (OGD)"></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/55.png" class="laparoscopic-icon" alt="4K Laparoscopic Resection"></div>
                                 <p>4K Laparoscopic Resection</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -868,7 +887,7 @@
                         <h3 class="title pt-5">Advanced Diagnostic Tools</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/52.png" alt="Upper G.I Endoscopy (OGD)"></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"></div>
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -876,11 +895,11 @@
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/50.png" alt="Narrow Band Imaging"></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"></div>
                                 <p>Narrow Band Imaging (NBI) – Early Cancer Detection</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-chart-line"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"></div>
                                 <p>High Resolution Esophageal Manometry with Impedance</p>
                             </div>
                             <div class="ugi-diag-card">

@@ -704,12 +704,47 @@
             transition: color 0.3s;
         }
 
+        .ugi-diag-icon img {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+            filter: brightness(0) invert(22%) sepia(100%) saturate(455%) hue-rotate(110deg) brightness(35%) contrast(95%);
+            transition: filter 0.3s ease;
+        }
+
+        .ugi-diag-icon img.large-icon {
+            width: 32px;
+            height: 32px;
+        }
+
+        .ugi-diag-icon img.esophageal-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
+        .ugi-diag-icon img.ogd-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
+        .ugi-diag-icon img.nbi-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255, 255, 255, 0.15);
         }
 
         .ugi-diag-card:hover .ugi-diag-icon i {
             color: #fff;
+        }
+
+        .ugi-diag-card:hover .ugi-diag-icon img {
+            filter: brightness(0) invert(1);
         }
 
         .ugi-diag-card p {
@@ -985,7 +1020,7 @@
                         <h3 class="title pt-5">Diagnostic Modalities</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper GI Endoscopy (OGD)"></div>
                                 <p>Upper GI Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -993,11 +1028,11 @@
                                 <p>H. Pylori Testing (RUT)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"></div>
                                 <p>Narrow Band Imaging (NBI)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-gauge-high"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"></div>
                                 <p>HR Esophageal Manometry</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -1072,7 +1107,7 @@
                         <h3 class="title pt-5">Advanced Diagnostic Tools</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-camera"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"></div>
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -1080,11 +1115,11 @@
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-crosshairs"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"></div>
                                 <p>Narrow Band Imaging (NBI) – Early Cancer Detection</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-chart-line"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"></div>
                                 <p>High Resolution Esophageal Manometry with Impedance</p>
                             </div>
                             <div class="ugi-diag-card">
