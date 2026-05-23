@@ -68,8 +68,7 @@
                     <div class="footer-social-icons">
                         <a href="#" class="fb" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                         <a href="#" class="ig" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
-                        <!-- <a href="#" class="tw" title="Twitter"><i class="fa-brands fa-twitter"></i></a> -->
-                        <a href="#" class="yt" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="https://wa.me/919500055483" class="wa" title="WhatsApp" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
                     </div>
                     <div class="back-to-top-footer" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
                         <i class="fa-solid fa-chevron-up"></i>

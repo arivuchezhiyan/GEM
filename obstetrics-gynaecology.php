@@ -742,7 +742,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-person-breastfeeding"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-baby"></i></span>
                                         <h5>Conditions We Treat</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -758,7 +758,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-procedures"></i></span>
                                         <h5>Advanced Procedures</h5>
                                     </div>
                                     <ul class="ugi-card-list">

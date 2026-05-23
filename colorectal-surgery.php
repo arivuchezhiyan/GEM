@@ -557,10 +557,20 @@
             color: #1a4f32;
             transition: color 0.3s;
         }
+        .ugi-diag-icon img {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+            filter: invert(22%) sepia(100%) saturate(455%) hue-rotate(110deg) brightness(35%) contrast(95%);
+            transition: filter 0.3s ease;
+        }
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255,255,255,0.15);
         }
         .ugi-diag-card:hover .ugi-diag-icon i { color: #fff; }
+        .ugi-diag-card:hover .ugi-diag-icon img {
+            filter: brightness(0) invert(1);
+        }
         .ugi-diag-card p {
             margin: 0;
             font-size: 15px;
@@ -743,7 +753,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-cancer"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-ribbon"></i></span>
                                         <h5>Cancer &amp; IBD</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -790,11 +800,11 @@
                                 <p>TAMIS / TEM Procedures</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-camera"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/52.png" alt="Upper G.I Endoscopy (OGD)"></div>
                                 <p>4K Laparoscopic Resection</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-gauge-high"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" alt="Anal Manometry Lab"></i></div>
                                 <p>Anal Manometry Lab</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -848,15 +858,15 @@
                         <h3 class="title pt-5">Advanced Diagnostic Tools</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-camera"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/52.png" alt="Upper G.I Endoscopy (OGD)"></div>
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-biohazard"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/51.png" alt="Rapid Urease Test"></div>
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-crosshairs"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/50.png" alt="Narrow Band Imaging"></div>
                                 <p>Narrow Band Imaging (NBI) – Early Cancer Detection</p>
                             </div>
                             <div class="ugi-diag-card">

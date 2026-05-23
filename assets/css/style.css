@@ -15747,19 +15747,23 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 .mySwiper-banner-2 .swiper-button-next,
 .mySwiper-banner-2 .swiper-button-prev {
   background-image: none;
-  height: 60px;
-  width: 60px;
-  border: 1px solid var(--color-primary);
+  background: #ffffff;
+  height: 44px;
+  width: 44px;
+  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
   transition: 0.3s;
+  z-index: 10;
 }
 
 .mySwiper-banner-2 .swiper-button-next i,
 .mySwiper-banner-2 .swiper-button-prev i {
   color: var(--color-primary);
+  font-size: 16px;
   transition: 0.3s;
 }
 
@@ -15774,12 +15778,12 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 
 .mySwiper-banner-2 .swiper-button-prev {
-  left: 80px;
+  left: 20px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .mySwiper-banner-2 .swiper-button-prev {
-    left: 30px;
+    left: 15px;
   }
 }
 
@@ -15793,13 +15797,13 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 
 .mySwiper-banner-2 .swiper-button-next {
-  right: 80px;
+  right: 20px;
   left: auto;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .mySwiper-banner-2 .swiper-button-next {
-    right: 30px;
+    right: 15px;
   }
 }
 
@@ -24328,29 +24332,46 @@ li.has-dropdown:hover .submenu {
 
 .footer-social-icons {
     display: flex;
+    align-items: center;
     gap: 15px;
 }
 
 .footer-social-icons a {
-    width: 42px;
-    height: 42px;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 4px;
+    border-radius: 50%;
     color: #ffffff !important;
     font-size: 18px;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
-.footer-social-icons a.fb { background: #3b5998; }
-.footer-social-icons a.ig { background: #d6249f; background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%); }
-.footer-social-icons a.tw { background: #00acee; }
-.footer-social-icons a.yt { background: #ff0000; }
+.footer-social-icons a.fb {
+    background: #1877f2;
+}
+
+.footer-social-icons a.ig {
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+}
+
+.footer-social-icons a.wa {
+    background: #25d366;
+}
 
 .footer-social-icons a:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.footer-social-icons a i {
+    transition: transform 0.3s ease;
+}
+
+.footer-social-icons a:hover i {
+    transform: scale(1.15);
 }
 
 .back-to-top-footer {

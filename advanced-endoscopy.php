@@ -854,8 +854,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i
-                                                class="fa-solid fa-building-circle-check"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-hospital"></i></span>
                                         <h5>GEM’s Advanced Facilities</h5>
                                     </div>
                                     <ul class="ugi-card-list">

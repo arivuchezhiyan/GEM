@@ -213,6 +213,78 @@
                 margin-bottom: 20px;
             }
         }
+
+        /* Home page banner Swiper controls styling and position overrides */
+        .mySwiper-banner-2 .swiper-button-next,
+        .mySwiper-banner-2 .swiper-button-prev {
+            background-image: none;
+            background: #ffffff;
+            height: 44px;
+            width: 44px;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+            transition: 0.3s;
+            z-index: 10;
+        }
+
+        .mySwiper-banner-2 .swiper-button-next i,
+        .mySwiper-banner-2 .swiper-button-prev i {
+            color: var(--color-primary);
+            font-size: 16px;
+            transition: 0.3s;
+        }
+
+        .mySwiper-banner-2 .swiper-button-next:hover,
+        .mySwiper-banner-2 .swiper-button-prev:hover {
+            background: var(--color-primary);
+        }
+
+        .mySwiper-banner-2 .swiper-button-next:hover i,
+        .mySwiper-banner-2 .swiper-button-prev:hover i {
+            color: #fff;
+        }
+
+        .mySwiper-banner-2 .swiper-button-prev {
+            left: 20px;
+        }
+
+        @media only screen and (min-width: 1200px) and (max-width: 1599px) {
+            .mySwiper-banner-2 .swiper-button-prev {
+                left: 15px;
+            }
+        }
+
+        @media only screen and (max-width: 1199px) {
+            .mySwiper-banner-2 .swiper-button-prev {
+                right: 203px;
+                bottom: 30px;
+                top: auto;
+                left: auto;
+            }
+        }
+
+        .mySwiper-banner-2 .swiper-button-next {
+            right: 20px;
+            left: auto;
+        }
+
+        @media only screen and (min-width: 1200px) and (max-width: 1599px) {
+            .mySwiper-banner-2 .swiper-button-next {
+                right: 15px;
+            }
+        }
+
+        @media only screen and (max-width: 1199px) {
+            .mySwiper-banner-2 .swiper-button-next {
+                right: 132px;
+                bottom: 30px;
+                top: auto;
+            }
+        }
     </style>
 </head>
 
