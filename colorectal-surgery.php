@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="Colorectal Surgery Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Colorectal%20Surgery.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="Colorectal Surgery Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Colorectal%20Surgery.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -766,17 +766,17 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Colorectal Surgery at GEM Hospital">
+                            <img src="assets/images/service/Colorectal%20Surgery.jpg" alt="Colorectal Surgery at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <h2 class="title">Compassionate Care for Colorectal Diseases</h2>
                         <p class="disc">
-                            People are rarely enthusiastic about healthcare, and the fear is heightened in the case of surgical illnesses. At GEM Hospital Chennai, we address your problems holistically, using the latest treatment modalities to give you a seamless recovery.
-                        </p>
+                        GEM Hospital provides advanced colorectal surgery services for the diagnosis and treatment of disorders affecting the colon, rectum and anus using minimally invasive techniques.
+                    </p>
                         <p class="disc">
-                            Our colorectal department specializes in advanced minimally invasive techniques (Laparoscopic &amp; Robotic) for managing disorders of the colon, rectum, and anus. We focus on <strong>Enhanced Recovery After Surgery (ERAS)</strong> protocols to ensure faster mobilization and better outcomes.
-                        </p>
+                        Our experienced colorectal surgeons deliver personalized care for conditions such as colorectal cancer, inflammatory bowel disease, hemorrhoids and diverticular disease using modern surgical protocols.
+                    </p>
 
                         <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
@@ -948,7 +948,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

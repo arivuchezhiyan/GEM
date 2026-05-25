@@ -963,19 +963,18 @@
                         <p class="disc">
                             Our team is led by <strong>Dr. C. Palanivelu,</strong> a leader in esophageal and gastric cancer surgeries, having successfully performed over 1,000 laparoscopic and robotic procedures with high precision and patient satisfaction.
                         </p>
+                        <p class="disc">
+                            With 30+ years of experience, we focus on providing world-class care using the latest technology. Our team ensures the best outcomes with minimally invasive techniques for faster recovery and improved results.
+                        </p>
 
                         <!-- World-first highlight banner -->
                         <div class="ugi-highlight-banner">
                             <i class="fa-solid fa-trophy"></i>
                             <div>
                                 <strong>World's First</strong>
-                                <p>With 30+ years of experience, we focus on providing world-class care using the latest technology. Our team ensures the best outcomes with minimally invasive techniques for faster recovery and improved results.</p>
+                                <p>GEM Hospital is the world's pioneer in performing Thoraco-Laparoscopic Esophagectomy in the prone position for esophageal cancer, a groundbreaking technique now adopted by leading centers worldwide.</p>
                             </div>
                         </div>
-
-                        <p class="disc mt--20">
-                           GEM Hospital is the world's pioneer in performing Thoraco-Laparoscopic Esophagectomy in the prone position for esophageal cancer, a groundbreaking technique now adopted by leading centers worldwide.
-                        </p>
 
                         <!-- Treat + Benefits: 2-col card grid -->
                         <div class="row g-4 mt--10">
@@ -983,18 +982,15 @@
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-award"></i></span>
-                                        <h5>Why GEM Hospital?</h5>
+                                        <h5>Benefits at GEM Hospital:</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Over 30 Years of Expertise</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>1,00,000+ Successful Surgeries
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Robotic & Laparoscopic Surgery
-                                            Disorders</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Globally Accredited
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Premium ICU & Recovery Services
-                                        </li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Upper GI Surgical Facilities</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Tailored Treatment for Every Patient</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Commitment to Safe, Quality Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Expert Surgeons Guiding You at Every Step</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>State-of-the-Art Robotic &amp; Laparoscopic Technology</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>30+ Years of Trusted Surgical Excellence</li>
                                     </ul>
                                 </div>
                             </div>
@@ -1046,7 +1042,7 @@
                         </div>
 
                         <!-- Surgeries Performed -->
-                        <h3 class="title pt-5">Surgeries Performed</h3>
+                        <!-- <h3 class="title pt-5">Surgeries Performed</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
@@ -1084,12 +1080,12 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
 
                         <!-- DISEASES TREATED -->
                         <!-- <div class="ugi-section-tag mt--50">DISEASES TREATED</div> -->
-                        <h3 class="title pt-5">Conditions We Treat</h3>
+                        <!-- <h3 class="title pt-5">Conditions We Treat</h3>
                         <div class="ugi-tag-grid">
                             <span><i class="fa-solid fa-circle-dot"></i> Gastroesophageal Reflux Disease (GERD)</span>
                             <span><i class="fa-solid fa-circle-dot"></i> Hiatus hernia</span>
@@ -1100,11 +1096,11 @@
                             <span><i class="fa-solid fa-circle-dot"></i> Stomach / Gastric cancers, GISTs, NETs</span>
                             <span><i class="fa-solid fa-circle-dot"></i> Esophageal Cancers</span>
                             <span><i class="fa-solid fa-circle-dot"></i> GE Junction tumors</span>
-                        </div>
+                        </div> -->
 
                         <!-- DIAGNOSTIC MODALITIES -->
                         <!-- <div class="ugi-section-tag mt--50">DIAGNOSTIC MODALITIES</div> -->
-                        <h3 class="title pt-5">Advanced Diagnostic Tools</h3>
+                        <!-- <h3 class="title pt-5">Advanced Diagnostic Tools</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"></div>
@@ -1142,7 +1138,7 @@
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-x-ray"></i></div>
                                 <p>Multidetector CT Scan – Cancer Specific Protocols</p>
                             </div>
-                        </div>
+                        </div> -->
 
 
                     </div>
@@ -1156,8 +1152,8 @@
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
                         <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <p>Get professional care from our skilled surgeons—fast, simple and seamless.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

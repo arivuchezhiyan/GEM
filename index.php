@@ -3,26 +3,26 @@
 
 <head>
     <link rel="icon" type="image/png" href="assets/images/logo/fav.png">
-    <title>GEM Hospital Chennai | Best Gastro Hospital in Chennai</title>
+    <title>Best Gastro Hospital in Chennai | GEM Hospital Chennai</title>
     <meta name="description"
-        content="GEM Hospital Chennai is the best gastroenterology and laparoscopic surgery hospital in Chennai, offering world-class digestive healthcare and advanced treatments for faster recovery.">
+        content="GEM Hospital Chennai, the Best Gastro Hospital in Chennai, offers expert gastro and laparoscopic care with advanced treatments for faster recovery.">
 
     <link rel="canonical" href="https://gemhospital.net/chennai/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://gemhospital.net/chennai/">
-    <meta property="og:title" content="GEM Hospital Chennai | Best Gastro Hospital in Chennai">
+    <meta property="og:title" content="Best Gastro Hospital in Chennai | GEM Hospital Chennai">
     <meta property="og:description"
-        content="Asia's Premier Gastroenterology Hospital. Over 30 years of surgical excellence in Gastrology and Minimally Invasive Surgery.">
+        content="GEM Hospital Chennai, the Best Gastro Hospital in Chennai, offers expert gastro and laparoscopic care with advanced treatments for faster recovery.">
     <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/banner/banner2.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/">
-    <meta property="twitter:title" content="GEM Hospital Chennai | Best Gastro Hospital in Chennai">
+    <meta property="twitter:title" content="Best Gastro Hospital in Chennai | GEM Hospital Chennai">
     <meta property="twitter:description"
-        content="Asia's Premier Gastroenterology Hospital. Over 30 years of surgical excellence in Gastrology and Minimally Invasive Surgery.">
+        content="GEM Hospital Chennai, the Best Gastro Hospital in Chennai, offers expert gastro and laparoscopic care with advanced treatments for faster recovery.">
     <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/banner/banner2.png">
 
     <!-- Structured Data (Schema.org) -->
@@ -477,7 +477,7 @@
                                     <div class="icon"><img src="assets/images/service/gastroenterology.svg"
                                             alt="Gastroenterology">
                                     </div>
-                                    <h4 class="title">Gastroenterology</h4>
+                                    <h4 class="title">Gastroenterology &amp; Digestive Care</h4>
                                     <p>Expert medical management for complex digestive disorders and therapeutic
                                         endoscopy.</p>
                                     <a href="medical-gastroenterology.php" class="read-more">Learn More <i
@@ -490,7 +490,7 @@
                                     <div class="icon"><img src="assets/images/service/robotic-surgery.svg"
                                             alt="Robotic Surgery">
                                     </div>
-                                    <h4 class="title">Robotic Surgery</h4>
+                                    <h4 class="title">Laparoscopic &amp; Robotic Surgery</h4>
                                     <p>Minimally invasive surgical solutions using state-of-the-art robotic systems.</p>
                                     <a href="robotic-surgery.php" class="read-more">Learn More <i
                                             class="fa-solid fa-arrow-right"></i></a>
@@ -525,7 +525,7 @@
                                 <div class="speciality-card wow fadeInUp" data-wow-delay=".5s">
                                     <div class="icon"><img src="assets/images/service/bariatric-weight-loss-surgery.svg"
                                             alt="Bariatric & Weight Loss Surgery"></div>
-                                    <h4 class="title">Bariatric & Weight Loss Surgery</h4>
+                                    <h4 class="title">Bariatric (Weight Loss) Surgery</h4>
                                     <p>Pioneers in metabolic surgery for long-term weight loss and health improvement.
                                     </p>
                                     <a href="gem-bariatric-surgery.php" class="read-more">Learn More <i
@@ -548,7 +548,7 @@
                                 <div class="speciality-card wow fadeInUp" data-wow-delay=".7s">
                                     <div class="icon"><img src="assets/images/service/gi-oncology-cancer-care.svg"
                                             alt="GI Oncology & Cancer Care"></div>
-                                    <h4 class="title">GI Oncology & Cancer Care</h4>
+                                    <h4 class="title">GI Oncology (Cancer Care)</h4>
                                     <p>Specialized oncology team dedicated to treating gastrointestinal cancers.</p>
                                     <a href="digestive-cancer-care.php" class="read-more">Learn More <i
                                             class="fa-solid fa-arrow-right"></i></a>
@@ -717,9 +717,7 @@
                                             </h2>
                                         </div>
                                         <p class="disc wow fadeInUp" data-wow-delay=".6s">
-                                            We believe healthcare goes beyond treatment. Our patient care approach
-                                            focuses on personalized consultation, safe hospital environment and
-                                            continuous monitoring for your well-being.
+                                            We believe healthcare goes beyond treatment. Our patient care approach focuses on personalized consultation and treatment plans, continuous monitoring and follow-up care, comfortable and safe hospital environment, and support services for patients and families. From consultation to recovery, we ensure a seamless and supportive healthcare experience.
                                         </p>
                                     </div>
                                 </div>
@@ -982,8 +980,9 @@
                 <div class="col-lg-6">
                     <div class="appoinment-area-main bg_image"
                         style="background-color: #1a4f32; padding: 100px 60px; display: flex; flex-direction: column; justify-content: center; height: 100%;">
-                        <h2 class="title" style="color: #fff; font-size: 48px; margin-bottom: 40px; font-weight: 700;">
-                            Book your Free Consulting</h2>
+                        <h2 class="title" style="color: #fff; font-size: 48px; margin-bottom: 20px; font-weight: 700;">
+                            Expert Care for a Healthier You</h2>
+                        <p style="color: #fff; font-size: 18px; margin-bottom: 40px;">Looking for the best hospital in Chennai for gastro and laparoscopic care? Our experts are here to guide you every step of the way.</p>
                         <div class="button-wrapper">
                             <a href="appoinment.php" class="rts-btn btn-primary"
                                 style="background: #fff; color: #1a4f32; padding: 20px 50px; font-weight: 700; border-radius: 50px; border: none; font-size: 20px; transition: 0.3s;">Book

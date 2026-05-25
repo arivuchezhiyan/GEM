@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Cardiology | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Cardiology | GEM Hospital Chennai - Expert Heart Care</title>
+    <meta name="description" content="GEM Hospital Chennai provides advanced cardiology services focused on the diagnosis, treatment and prevention of heart and vascular conditions with precision-based care.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Cardiology Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/cardiology.php">
+    <meta property="og:title" content="Cardiology | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced cardiology services focused on the diagnosis, treatment and prevention of heart and vascular conditions with precision-based care.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Cardiology.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Cardiology Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/cardiology.php">
+    <meta property="twitter:title" content="Cardiology | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced cardiology services focused on the diagnosis, treatment and prevention of heart and vascular conditions with precision-based care.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Cardiology.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,102 +717,102 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Cardiology at GEM Hospital">
+                            <img src="assets/images/service/Cardiology.jpg" alt="Cardiology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">GEM Artemis Advanced Heart &amp; Vascular Institute</h2>
+                        <h2 class="title">Cardiology</h2>
                         <p class="disc">
-                            GEM Hospital has partnered with Artemis Cardiac Care, India's leading cardiac chain, to establish the GEM Artemis Heart Centre. This tertiary care facility provides world-class cardiac expertise, cutting-edge equipment, and international-standard infrastructure to ensure the best outcomes for heart and vascular disorders.
+                            GEM Hospital provides advanced cardiology services focused on the diagnosis, treatment and prevention of heart and vascular conditions with precision-based care.
                         </p>
                         <p class="disc">
-                            Led by <strong>Dr. V.K.G. Rajasekar</strong>, a renowned senior interventional cardiologist with over 30 years of experience, our center is known for safely performing complex cardiac procedures. We follow an ethical, patient-centric approach combined with compassionate care and medical excellence.
+                            Our experienced cardiologists deliver comprehensive cardiac care using advanced diagnostics, modern treatment techniques and internationally accepted clinical protocols.
                         </p>
 
-                        <!-- Innovation Highlight banner -->
+                        <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-heart-pulse"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>24/7 Cardiac Emergency Care</strong>
-                                <p>Our dedicated 24-hour chest pain treatment center and emergency heart attack care unit provide life-saving primary angioplasty and critical support when every second counts.</p>
+                                <strong>Precision-Based Cardiology Care</strong>
+                                <p>GEM Hospital follows advanced cardiology protocols and modern diagnostic techniques to ensure accurate treatment and improved heart health outcomes.</p>
                             </div>
                         </div>
 
-                        <!-- Specialized Care: 2-col card grid -->
+                        <!-- Diseases Treated: 2-col card grid -->
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-stretcher"></i></span>
-                                        <h5>Emergency Services</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced Cardiology Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Primary Angioplasty (PAMI)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>24/7 Chest Pain Management</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Acute Limb Ischemia Care</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Emergency Pulmonary Thrombectomy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Arrhythmia Unit</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Heart Failure Emergency Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Preventive Heart Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Hypertension Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Heart Disease Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Chest Pain Assessment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Risk Screening</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Emergency Cardiac Support</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-hand-holding-medical"></i></span>
-                                        <h5>Elective Interventions</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Cardiac Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Complex Coronary Angioplasty</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Shockwave Lithotripsy (IVL)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>TAVI (Valve Implantation)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pacemaker &amp; AICD Implantation</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>ASD/VSD/PDA Device Closure</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>CRT for Heart Failure</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced ECG &amp; Echo Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Imaging Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Heart Diagnostics</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Stress Test &amp; Monitoring Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Cardiac Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Care</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">Non-Invasive Diagnostics</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>2D Echo &amp; Color Doppler</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-stopwatch"></i></div>
-                                <p>Tread Mill Test (TMT)</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-heart-circle-check"></i></div>
-                                <p>24-Hr Holter Monitoring</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
-                        <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Artemis Advantage</h3>
+                        <!-- GEM Expertise -->
+                        <h3 class="title pt-5">GEM Advantage in Cardiology Care</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Philips Azurion Cathlab</strong>
-                                    <p>State-of-the-art imaging system providing high accuracy and significantly lower radiation exposure for patients.</p>
+                                    <strong>Expert Cardiology Team</strong>
+                                    <p>Experienced cardiologists delivering comprehensive heart care with precision-focused diagnosis and treatment approaches.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Complex Calcified Lesion Care</strong>
-                                    <p>Advanced expertise in Rotablation and Shockwave IVL to treat severely calcified arteries safely without surgery.</p>
+                                    <strong>Advanced Diagnostic Support</strong>
+                                    <p>Modern cardiac imaging and diagnostic systems ensure accurate evaluation and effective treatment outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Advanced LV Support</strong>
-                                    <p>Availability of Impella and IABP support for high-risk angioplasties and cardiogenic shock patients.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted cardiology and patient safety standards for enhanced healthcare delivery.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our cardiology specialists for expert heart care, advanced diagnosis and personalized treatment solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Cardiac Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Heart Care Services</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Cardiology Specialists</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Diagnostic Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Cardiac Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Patient Care</li>
                         </ul>
                     </div>
 
@@ -900,10 +900,10 @@
                     <div class="gem-sidebar-card gem-doctor-card">
                         <div class="gem-doctor-header">
                             <div class="gem-doctor-avatar">
-                                <img src="assets/images/team/rajasekar.png" alt="Dr. V.K.G. Rajasekar">
+                                <img src="assets/images/team/palanivelu.png" alt="Dr. C. Palanivelu">
                             </div>
                             <div class="gem-doctor-info">
-                                <h5>Dr. V.K.G. Rajasekar</h5>
+                                <h5>Dr. C. Palanivelu</h5>
                                 <span>Chief Director</span>
                             </div>
                         </div>
@@ -926,8 +926,8 @@
                                 <span>Surgeries Performed</span>
                             </div>
                             <div class="gem-stat-item">
-                                <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <strong>5000+</strong>
+                                <span>Cardiac Interventions</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Digestive Cancer Care | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Digestive Cancer Care | GEM Hospital Chennai - Advanced Oncology Care</title>
+    <meta name="description" content="GEM Hospital Chennai provides advanced digestive cancer care services for cancers affecting the gastrointestinal tract, liver, pancreas, colon and related digestive organs.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Digestive Cancer Care Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/digestive-cancer-care.php">
+    <meta property="og:title" content="Digestive Cancer Care | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced digestive cancer care services for cancers affecting the gastrointestinal tract, liver, pancreas, colon and related digestive organs.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Digestive%20Cancer%20Care.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Digestive Cancer Care Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/digestive-cancer-care.php">
+    <meta property="twitter:title" content="Digestive Cancer Care | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced digestive cancer care services for cancers affecting the gastrointestinal tract, liver, pancreas, colon and related digestive organs.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Digestive%20Cancer%20Care.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -760,102 +760,102 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Digestive Cancer Care at GEM Hospital">
+                            <img src="assets/images/service/Digestive%20Cancer%20Care.png" alt="Digestive Cancer Care at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Comprehensive Digestive Cancer Care</h2>
+                        <h2 class="title">Digestive Cancer Care</h2>
                         <p class="disc">
-                            At GEM Hospital, our Digestive Cancer Care department provides specialized treatment for malignancies arising from the esophagus to the anus. Our multidisciplinary team of surgical oncologists, medical oncologists, and interventional radiologists works together to provide the highest standard of care for complex gastrointestinal cancers.
+                            GEM Hospital provides advanced digestive cancer care services for cancers affecting the gastrointestinal tract, liver, pancreas, colon and related digestive organs.
                         </p>
                         <p class="disc">
-                            Our department is pioneered by world-renowned surgeon Prof. C. Palanivelu, who performed the world's first totally Laparoscopic Whipple’s procedure in 1998. We leverage decades of expertise and state-of-the-art technology to deliver precision cancer care with a focus on minimally invasive techniques.
+                            Our experienced oncology specialists deliver personalized cancer treatment using advanced diagnostics, minimally invasive procedures and multidisciplinary care approaches.
                         </p>
 
-                        <!-- Innovation Highlight banner -->
+                        <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-ribbon"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>Global Leader in Cancer Surgery</strong>
-                                <p>GEM Hospital is one of the few centers in the world offering both Laparoscopic and Robotic surgery for complex, locally advanced digestive cancers.</p>
+                                <strong>Precision-Based Digestive Cancer Treatment</strong>
+                                <p>GEM Hospital follows advanced oncology protocols and modern treatment techniques to ensure accurate diagnosis, effective treatment and improved patient outcomes.</p>
                             </div>
                         </div>
 
-                        <!-- Specialized Care: 2-col card grid -->
+                        <!-- Diseases Treated: 2-col card grid -->
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-disease"></i></span>
-                                        <h5>Cancers We Treat</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced Digestive Cancer Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Esophageal &amp; Gastric Cancers</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic &amp; Periampullary Cancers</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Liver &amp; Gallbladder Malignancies</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Colorectal &amp; Anal Cancers</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Gastrointestinal Stromal Tumors (GIST)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Neuroendocrine Tumors (NET)</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Colorectal Cancer Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Liver Cancer Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic Cancer Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Stomach Cancer Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Esophageal Cancer Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>GI Tumor Surgical Management</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
-                                     <div class="ugi-info-card-head">
-                                         <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
-                                         <h5>Advanced Modalities</h5>
-                                     </div>
+                                    <div class="ugi-info-card-head">
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Oncology Technologies</h5>
+                                    </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Robotic &amp; Laparoscopic Resections</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>ICG-Guided Precision Surgery</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Cytoreductive Surgery &amp; HIPEC</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>TAMIS for Rectal Tumors</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Endoscopic Ultrasound (EUS)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Targeted Medical Oncology</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Cancer Imaging Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Cancer Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Diagnostic Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>HD Surgical Visualization</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Multidisciplinary Cancer Planning</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Procedures</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">Precision Diagnostics</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"></div>
-                                <p>Narrow Band Imaging (NBI)</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Oncology Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Endoscopic Ultrasound (EUS)</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Cancer Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-x-ray"></i></div>
-                                <p>Cancer Specific CT Protocols</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
-                        <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Advantage in Oncology</h3>
+                        <!-- GEM Expertise -->
+                        <h3 class="title pt-5">GEM Advantage in Digestive Cancer Care</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Largest Volume Experience</strong>
-                                    <p>Decades of experience in complex cancer surgeries like Laparoscopic Whipple's and Esophagectomy.</p>
+                                    <strong>Expert Oncology Team</strong>
+                                    <p>Experienced cancer specialists delivering comprehensive digestive cancer treatment with precision-focused care approaches.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Cutting-Edge Platforms</strong>
-                                    <p>Utilization of 3D, 4K, and Da Vinci Robotic platforms for superior visualization and precision.</p>
+                                    <strong>Advanced Treatment Approach</strong>
+                                    <p>Modern diagnostics and minimally invasive oncology procedures ensure accurate treatment and enhanced recovery outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Multidisciplinary Tumor Board</strong>
-                                    <p>Personalized treatment plans reviewed by a team of experts for optimal patient outcomes.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted oncology and patient safety standards for comprehensive cancer care delivery.</p>
                                 </div>
                             </div>
                         </div>
@@ -871,9 +871,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our digestive cancer care specialists for advanced diagnosis, expert treatment and personalized oncology support.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -887,14 +887,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Cancer Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Oncology Expertise</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Cancer Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Diagnostic Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Multidisciplinary Treatment Approach</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Patient Care</li>
                         </ul>
                     </div>
 

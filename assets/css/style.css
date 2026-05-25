@@ -24438,3 +24438,19 @@ li.has-dropdown:hover .submenu {
     }
 }
 
+/* --- Service Details Page Main Image Rounded Corners --- */
+.service-details-surgery-main .thumbnail {
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+.service-details-surgery-main .thumbnail img {
+    border-radius: 16px;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+.service-details-surgery-main .thumbnail:hover img {
+    transform: scale(1.02);
+}
+

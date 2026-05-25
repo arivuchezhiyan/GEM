@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Master Health Checkup | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Master Health Checkup | GEM Hospital Chennai - Preventive Health Screening</title>
+    <meta name="description" content="GEM Hospital Chennai offers comprehensive master health check-up programs designed for early detection, preventive care and complete health evaluation using advanced diagnostic technology.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Master Health Checkup Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/master-health-checkup.php">
+    <meta property="og:title" content="Master Health Checkup | GEM Hospital Chennai">
+    <meta property="og:description" content="GEM Hospital Chennai offers comprehensive master health check-up programs designed for early detection, preventive care and complete health evaluation using advanced diagnostic technology.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Master%20Health%20Checkup.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Master Health Checkup Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/master-health-checkup.php">
+    <meta property="twitter:title" content="Master Health Checkup | GEM Hospital Chennai">
+    <meta property="twitter:description" content="GEM Hospital Chennai offers comprehensive master health check-up programs designed for early detection, preventive care and complete health evaluation using advanced diagnostic technology.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Master%20Health%20Checkup.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,24 +717,24 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Master Health Checkup at GEM Hospital">
+                            <img src="assets/images/service/Master%20Health%20Checkup.jpg" alt="Master Health Checkup at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Comprehensive Master Health Checkup</h2>
+                        <h2 class="title">Master Health Checkup</h2>
                         <p class="disc">
-                            In today's fast-paced world, neglecting health due to busy schedules and stress has become common. At GEM Hospital, we emphasize the critical role of preventive healthcare (prophylaxis) in identifying health risks before they develop into serious illnesses.
+                            GEM Hospital offers comprehensive master health check-up programs designed for early detection, preventive care and complete health evaluation using advanced diagnostic technology.
                         </p>
                         <p class="disc">
-                            Our Master Health Checkup is designed to provide a thorough evaluation of your well-being through advanced diagnostics and expert clinical assessment. Early detection significantly increases the success of treatment and management for lifestyle-related illnesses like Diabetes, Hypertension, and CAD.
+                            Our personalized health screening packages help identify potential health risks early and support better lifestyle management through expert medical guidance and preventive care.
                         </p>
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
                             <i class="fa-solid fa-heart-pulse"></i>
                             <div>
-                                <strong>Preventive Excellence</strong>
-                                <p>Identifying risks early is cost-effective and improves long-term quality of life. Our checkups are essential for individuals with a family history of chronic conditions or those with sedentary lifestyles.</p>
+                                <strong>Precision-Based Health Screening</strong>
+                                <p>GEM Hospital follows advanced diagnostic protocols and preventive healthcare practices to support early detection and better long-term wellness.</p>
                             </div>
                         </div>
 
@@ -744,15 +744,15 @@
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-clipboard-list"></i></span>
-                                        <h5>Why Preventive Care?</h5>
+                                        <h5>Comprehensive Health Assessments</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Early detection of silent diseases</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Identifies genetic predispositions</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Reduces long-term medical costs</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Monitors lifestyle-related risks</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Personalized wellness counseling</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Peace of mind for you and family</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Full Body Health Screening</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Health Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Diabetes &amp; Thyroid Screening</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Liver &amp; Kidney Function Tests</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Cancer Screening Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Lifestyle Disease Assessment</li>
                                     </ul>
                                 </div>
                             </div>
@@ -760,59 +760,61 @@
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-stethoscope"></i></span>
-                                        <h5>Checkup Components</h5>
+                                        <h5>Advanced Diagnostic Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Detailed Medical History</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Comprehensive Physical Exam</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Blood &amp; Lipid Profile</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Stress Testing (TMT/ECG)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Abdominal &amp; Pelvic Imaging</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Specialist Consultations</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Precision Laboratory Testing</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Imaging Services</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Diagnostic Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Ultrasound &amp; Radiology Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Preventive Risk Assessment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Technology-Driven Health Analysis</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">The Art of Diagnosis</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-notes-medical"></i></div>
-                                <p>History Taking</p>
+                                <p>Expert Health Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-user-check"></i></div>
-                                <p>Physical Exam</p>
+                                <p>Comprehensive Medical Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
-                                <p>Lab Evaluation</p>
+                                <p>Customized Wellness Planning</p>
                             </div>
                         </div>
 
                         <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Health Standard</h3>
+                        <h3 class="title pt-5">GEM Advantage in Master Health Check-Up</h3>
                         <div class="ugi-surgery-timeline">
-                            <div class="ugi-surgery-item">
-                                <div class="ugi-surgery-num">01</div>
-                                <div class="ugi-surgery-text">
-                                    <strong>Advanced Screening</strong>
-                                    <p>Utilizing high-end technology to detect even the most subtle changes in physiological health markers.</p>
+                            <div class="ugi-surgery-timeline">
+                                <div class="ugi-surgery-item">
+                                    <div class="ugi-surgery-num">01</div>
+                                    <div class="ugi-surgery-text">
+                                        <strong>Expert Preventive Care Team</strong>
+                                        <p>Experienced healthcare professionals delivering complete health assessments with personalized medical guidance.</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="ugi-surgery-item ugi-surgery-item--accent">
-                                <div class="ugi-surgery-num">02</div>
-                                <div class="ugi-surgery-text">
-                                    <strong>Multidisciplinary Input</strong>
-                                    <p>Consultations with various specialists to ensure a 360-degree view of your health status.</p>
+                                <div class="ugi-surgery-item ugi-surgery-item--accent">
+                                    <div class="ugi-surgery-num">02</div>
+                                    <div class="ugi-surgery-text">
+                                        <strong>Advanced Diagnostic Support</strong>
+                                        <p>Modern diagnostic technology and accurate health evaluations ensure reliable and efficient preventive care.</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="ugi-surgery-item">
-                                <div class="ugi-surgery-num">03</div>
-                                <div class="ugi-surgery-text">
-                                    <strong>Actionable Insights</strong>
-                                    <p>Clear, detailed reports followed by a roadmap for lifestyle modifications or necessary interventions.</p>
+                                <div class="ugi-surgery-item">
+                                    <div class="ugi-surgery-num">03</div>
+                                    <div class="ugi-surgery-text">
+                                        <strong>International Care Standards</strong>
+                                        <p>Health screening protocols aligned with globally accepted preventive healthcare and patient safety practices.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +830,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Book Your Health Check</h4>
+                        <p>Schedule your comprehensive health screening with our expert medical team for preventive and personalized healthcare support.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +846,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Preventive Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Health Screening</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Diagnostic Technology</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Medical Evaluation</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Personalized Health Packages</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Preventive Healthcare Focus</li>
                         </ul>
                     </div>
 

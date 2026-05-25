@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="IBD Clinic Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/IBD%20Clinic.webp">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="IBD Clinic Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/IBD%20Clinic.webp">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,16 +717,16 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="IBD Clinic at GEM Hospital">
+                            <img src="assets/images/service/IBD%20Clinic.webp" alt="IBD Clinic at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <h2 class="title">Comprehensive IBD Clinic</h2>
                         <p class="disc">
-                            Inflammatory Bowel Disease (IBD), including Crohn's disease and Ulcerative Colitis, are chronic disorders requiring long-term specialized care. At GEM Hospital, our dedicated IBD Clinic provides a multidisciplinary approach to manage these complex conditions, focusing on achieving long-term remission and improving patient quality of life.
+                            GEM Hospital provides advanced care for Inflammatory Bowel Disease (IBD), offering diagnosis and treatment for Crohn&#39;s disease, ulcerative colitis and other chronic gastrointestinal disorders.
                         </p>
                         <p class="disc">
-                            We offer all-inclusive advanced treatment options ranging from medical and biological therapies to specialized surgical and endoscopic interventions. Our team includes expert gastroenterologists, surgeons, pathologists, and nutritionists working together to customize treatment plans for every patient.
+                            Our experienced gastroenterologists deliver personalized care using modern diagnostic tools, targeted therapy and evidence-based protocols to manage symptoms and improve long-term digestive health.
                         </p>
 
                         <!-- Innovation Highlight banner -->
@@ -830,7 +830,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

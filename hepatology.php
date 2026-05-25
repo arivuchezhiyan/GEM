@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Hepatology | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Hepatology | GEM Hospital Chennai - Advanced Liver Care</title>
+    <meta name="description" content="GEM Hospital provides advanced hepatology services for the diagnosis, treatment, and management of liver and biliary diseases using cutting-edge technology.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Hepatology Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/hepatology.php">
+    <meta property="og:title" content="Hepatology | GEM Hospital Chennai">
+    <meta property="og:description" content="GEM Hospital provides advanced hepatology services for the diagnosis, treatment, and management of liver and biliary diseases using cutting-edge technology.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Hepatology.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Hepatology Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/hepatology.php">
+    <meta property="twitter:title" content="Hepatology | GEM Hospital Chennai">
+    <meta property="twitter:description" content="GEM Hospital provides advanced hepatology services for the diagnosis, treatment, and management of liver and biliary diseases using cutting-edge technology.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Hepatology.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,24 +717,24 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Hepatology at GEM Hospital">
+                            <img src="assets/images/service/Hepatology.png" alt="Hepatology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Advanced Liver Care &amp; Hepatology</h2>
+                        <h2 class="title">Hepatology</h2>
                         <p class="disc">
-                            Hepatology is a rapidly advancing field of Gastroenterology at GEM Hospital. We provide specialized care for a wide spectrum of liver diseases, ranging from acute hepatitis and fatty liver to acute liver failure and end-stage liver disease (Cirrhosis).
+                            GEM Hospital provides advanced hepatology services for the diagnosis, treatment, and management of liver and biliary diseases using cutting-edge technology.
                         </p>
                         <p class="disc">
-                            Our multidisciplinary team evaluates and treats all types of liver conditions, including those caused by alcohol, Hepatitis B/C, and metabolic disorders. We offer the latest in liver diagnostics and life-saving interventions, including advanced radiological procedures and liver transplantation.
+                            Our experienced hepatologists deliver personalized care for liver conditions including hepatitis, cirrhosis, fatty liver, and liver cancer using internationally accepted protocols and minimally invasive treatments.
                         </p>
 
-                        <!-- Innovation Highlight banner -->
+                        <!-- COE Highlight banner -->
                         <div class="ugi-highlight-banner">
                             <i class="fa-solid fa-hand-holding-medical"></i>
                             <div>
-                                <strong>Comprehensive Liver Management</strong>
-                                <p>From early-stage fatty liver screening to complex life-saving plasma exchange therapy for liver failure, we cover the full spectrum of liver health.</p>
+                                <strong>Precision-Based Hepatology Treatment</strong>
+                                <p>GEM Hospital follows advanced hepatology protocols and modern diagnostic techniques to ensure accurate treatment, improved liver health, and better patient outcomes.</p>
                             </div>
                         </div>
 
@@ -743,16 +743,16 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-virus"></i></span>
-                                        <h5>Conditions We Treat</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-disease"></i></span>
+                                        <h5>Advanced Hepatology Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Fatty Liver Disease (NAFLD/NASH)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Liver Cirrhosis &amp; Complications</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Acute &amp; Chronic Liver Failure</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Hepatocellular Carcinoma (Liver Cancer)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Wilson's &amp; Metabolic Liver Diseases</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Hepatitis B &amp; C Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Hepatitis Diagnosis & Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Fatty Liver & Cirrhosis Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Liver Tumor Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Biliary Disorder Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Liver Transplant Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Liver Procedures</li>
                                     </ul>
                                 </div>
                             </div>
@@ -760,59 +760,59 @@
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-kit-medical"></i></span>
-                                        <h5>Advanced Interventions</h5>
+                                        <h5>Modern Hepatology Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Plasma Exchange Therapy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>TACE &amp; RFA for Liver Tumors</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>TIPS &amp; BRTO Procedures</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>ERCP &amp; Spyglass Cholangioscopy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Percutaneous Liver Biopsy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Liver Transplantation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Definition Liver Imaging</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Endoscopic Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Liver Diagnostics</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Liver Interventions</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Real-Time Monitoring Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Care</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">Precision Liver Diagnostics</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Fibroscan (Liver Stiffness)</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass-plus"></i></div>
-                                <p>Spyglass Cholangioscopy</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-flask"></i></div>
-                                <p>Advanced Molecular Testing</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
                         <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Liver Advantage</h3>
+                        <h3 class="title pt-5">GEM Advantage in Hepatology</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Dedicated Fatty Liver Clinic</strong>
-                                    <p>Comprehensive screening and management programs for the increasing burden of fatty liver disease.</p>
+                                    <strong>Expert Hepatology Team</strong>
+                                    <p>Experienced hepatologists delivering comprehensive liver care with precision-focused treatment approaches.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Liver Failure Support</strong>
-                                    <p>Advanced ICU care and Plasma Exchange (PLEX) therapy for patients with acute-on-chronic liver failure.</p>
+                                    <strong>Advanced Diagnostic Support</strong>
+                                    <p>Modern imaging and minimally invasive techniques ensure accurate evaluation and effective liver disease management.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Expert Transplant Team</strong>
-                                    <p>Highly skilled hepatobiliary surgeons and hepatologists providing end-to-end transplant care.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted hepatology and patient safety standards for superior healthcare delivery.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our hepatology specialists for comprehensive liver care and advanced treatment solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Liver Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Liver Disease Management</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Diagnostic Techniques</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Hepatology Specialists</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Diagnostic Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Patient Care</li>
                         </ul>
                     </div>
 
@@ -907,7 +907,7 @@
                                 <span>Head of Division</span>
                             </div>
                         </div>
-                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with <strong>1000+</strong> esophageal cancer surgeries performed successfully.</p>
+                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery who has pioneered surgical treatments for liver and pancreatic conditions.</p>
                         <a href="doctor.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
                             <i class="fa-solid fa-user-doctor"></i> View Profile
                         </a>
@@ -926,8 +926,8 @@
                                 <span>Surgeries Performed</span>
                             </div>
                             <div class="gem-stat-item">
-                                <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <strong>5000+</strong>
+                                <span>Liver Care Patients</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

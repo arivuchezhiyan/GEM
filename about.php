@@ -101,7 +101,7 @@
                         <div class="icon mb--25" style="width: 80px; height: 80px; background: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
                             <i class="fa-solid fa-bullseye-arrow" style="font-size: 35px; color: #1a4f32;"></i>
                         </div>
-                        <h4 class="title mb--20" style="color: #1a4f32; font-weight: 700;">Our Mission</h4>
+                        <h4 class="title mb--20" style="color: #1a4f32; font-weight: 700;">Our Intent</h4>
                         <p class="disc">To be a global leader in healthcare, offering state-of-the-art services that blend innovative technology with compassionate care, focused on enhancing the well-being of our community.</p>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <div class="icon mb--25" style="width: 80px; height: 80px; background: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
                             <i class="fa-solid fa-eye" style="font-size: 35px; color: #1a4f32;"></i>
                         </div>
-                        <h4 class="title mb--20" style="color: #1a4f32; font-weight: 700;">Our Vision</h4>
+                        <h4 class="title mb--20" style="color: #1a4f32; font-weight: 700;">Our Purpose</h4>
                         <p class="disc">To consistently provide exceptional, patient-centered care with a focus on health equity, fostering an environment of trust, excellence and innovation that benefits every patient.</p>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         <div class="icon mb--25" style="width: 80px; height: 80px; background: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
                             <i class="fa-solid fa-award" style="font-size: 35px; color: #1a4f32;"></i>
                         </div>
-                        <h4 class="title mb--20" style="color: #1a4f32; font-weight: 700;">Quality Policy</h4>
+                        <h4 class="title mb--20" style="color: #1a4f32; font-weight: 700;">Excellence Framework</h4>
                         <p class="disc">GEM Hospital is dedicated to offering superior healthcare services through cutting-edge technology and continuous process improvements, ensuring that our care meets the highest standards of excellence.</p>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                         
                         <div class="single-dev-point mb--30 wow fadeInUp" data-wow-delay=".5s">
                             <h5 class="mb--10" style="color: #1a4f32; font-weight: 700;"><i class="fa-solid fa-user-doctor mr--10"></i>Dr. Palanivelu – A Visionary in Surgery</h5>
-                            <p class="disc">Dr. Palanivelu pioneered laparoscopic surgery in South India, revolutionizing medical practices. His use of minimally invasive techniques across various surgeries, including cancer, has reshaped surgical care and set new standards in healthcare..</p>
+                            <p class="disc">Dr. Palanivelu pioneered laparoscopic surgery in South India, revolutionizing medical practices. His use of minimally invasive techniques across various surgeries, including cancer, has reshaped surgical care and set new standards in healthcare.</p>
                         </div>
 
                         <div class="single-dev-point mb--30 wow fadeInUp" data-wow-delay=".6s">

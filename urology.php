@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Urology | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Urology &amp; Kidney Care | GEM Hospital Chennai - Expert Urologists</title>
+    <meta name="description" content="GEM Hospital Chennai offers advanced urology services for the diagnosis and treatment of kidney, urinary tract, bladder and prostate-related conditions.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Urology Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/urology.php">
+    <meta property="og:title" content="Urology &amp; Kidney Care | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced urology services for the diagnosis and treatment of kidney, urinary tract, bladder and prostate-related conditions.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Urology.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Urology Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/urology.php">
+    <meta property="twitter:title" content="Urology &amp; Kidney Care | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced urology services for the diagnosis and treatment of kidney, urinary tract, bladder and prostate-related conditions.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Urology.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,102 +717,102 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Urology at GEM Hospital">
+                            <img src="assets/images/service/Urology.jpg" alt="Urology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Advanced Urology &amp; Genitourinary Care</h2>
+                        <h2 class="title">Urology</h2>
                         <p class="disc">
-                            The Department of Urology at GEM Hospital, Chennai, is a premier center for comprehensive genitourinary care. Equipped with excellent infrastructure and the latest minimally invasive technology, we deliver the highest standard of care for patients with complex urological complaints.
+                            GEM Hospital offers advanced urology services for the diagnosis and treatment of kidney, urinary tract, bladder and prostate-related conditions.
                         </p>
                         <p class="disc">
-                            Our department specializes in advanced Endourology, Laser Surgery for stones and prostate, and high-precision Laparoscopic and Robotic Urological procedures. Whether it's managing common urinary infections or performing complex oncological resections, our team ensures the best possible outcomes through personalized treatment.
+                            Our experienced urologists provide personalized care using advanced diagnostics, minimally invasive procedures and modern surgical technologies for improved patient outcomes.
                         </p>
 
-                        <!-- Innovation Highlight banner -->
+                        <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-bullseye"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>Minimally Invasive Excellence</strong>
-                                <p>We utilize state-of-the-art 100-watt Holmium lasers, flexible ureteroscopes, and robotic systems to provide scarless and rapid-recovery solutions for urological conditions.</p>
+                                <strong>Precision-Based Urology Treatment</strong>
+                                <p>GEM Hospital follows advanced urology protocols and minimally invasive techniques to ensure accurate treatment, faster recovery and improved patient comfort.</p>
                             </div>
                         </div>
 
-                        <!-- Specialized Care: 2-col card grid -->
+                        <!-- Diseases Treated: 2-col card grid -->
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-file-medical"></i></span>
-                                        <h5>Conditions We Treat</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced Urology Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Kidney &amp; Bladder Stones</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Prostate Disorders (BPH/Cancer)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Urinary Tract Infections (UTI)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Voiding Disorders &amp; Incontinence</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Male Infertility &amp; Erectile Dysfunction</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Congenital Uro-genital Disorders</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Kidney Stone Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Prostate Disorder Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Urinary Tract Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Bladder Disease Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Male Urology Services</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Urological Surgery</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-shield-virus"></i></span>
-                                        <h5>Advanced Modalities</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Urology Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Laser Lithotripsy (RIRS/PCNL)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Holmium Laser Prostatectomy (HoLEP)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Robotic Urological Surgery</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Uro-Oncology (Kidney/Bladder Cancer)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Reconstructive Urology</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Urodynamics</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Endourology Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Laser-Based Stone Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>HD Imaging &amp; Diagnostics</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Surgical Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Urological Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Procedures</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">Precision Uro-Diagnostics</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-gauge-high"></i></div>
-                                <p>Advanced Urodynamic Studies</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-eye"></i></div>
-                                <p>Flexible Cystoscopy</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-dna"></i></div>
-                                <p>Molecular Marker Testing</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
-                        <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Urology Advantage</h3>
+                        <!-- GEM Expertise -->
+                        <h3 class="title pt-5">GEM Advantage in Urology Care</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Laser Specialist Center</strong>
-                                    <p>Comprehensive management of stones and prostate using high-power 100W Holmium laser for faster recovery and no incisions.</p>
+                                    <strong>Expert Urology Team</strong>
+                                    <p>Experienced urologists delivering advanced medical and surgical care with precision-focused treatment approaches.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Robotic Precision</strong>
-                                    <p>Our robotic-assisted surgeries for prostate and kidney cancers offer unparalleled precision, minimal blood loss, and shorter hospital stays.</p>
+                                    <strong>Advanced Treatment Approach</strong>
+                                    <p>Modern diagnostics and minimally invasive procedures ensure effective treatment and enhanced patient recovery outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Comprehensive Reconstructions</strong>
-                                    <p>Expertise in complex reconstructive urology, including urethroplasty and bladder augmentations for traumatic or congenital issues.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted urology and patient safety standards for comprehensive healthcare delivery.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our urology specialists for advanced diagnosis, expert care and personalized treatment solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Urology Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Urological Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Treatments</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Urology Specialists</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Diagnostic Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Patient Care</li>
                         </ul>
                     </div>
 
@@ -907,7 +907,7 @@
                                 <span>Head of Division</span>
                             </div>
                         </div>
-                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with <strong>1000+</strong> esophageal cancer surgeries performed successfully.</p>
+                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with extensive experience in advanced minimally invasive reconstructive procedures.</p>
                         <a href="doctor.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
                             <i class="fa-solid fa-user-doctor"></i> View Profile
                         </a>
@@ -926,8 +926,8 @@
                                 <span>Surgeries Performed</span>
                             </div>
                             <div class="gem-stat-item">
-                                <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <strong>5000+</strong>
+                                <span>Urology Procedures</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

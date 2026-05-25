@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="Nephrology Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Nephrology.webp">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="Nephrology Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Nephrology.webp">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,16 +717,16 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Nephrology at GEM Hospital">
+                            <img src="assets/images/service/Nephrology.webp" alt="Nephrology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <h2 class="title">Comprehensive Nephrology &amp; Kidney Care</h2>
                         <p class="disc">
-                            The Department of Nephrology at GEM Hospital is dedicated to providing superior care for patients with kidney-related disorders. We combine clinical expertise with state-of-the-art technology to offer personalized treatment plans that prioritize patient safety and long-term health outcomes.
+                            GEM Hospital provides advanced nephrology services for the diagnosis, treatment and management of kidney-related disorders with a focus on precision care.
                         </p>
                         <p class="disc">
-                            Our team of expert nephrologists manages the full spectrum of kidney diseases, from common infections to complex chronic conditions and end-stage renal failure. We are equipped with advanced dialysis facilities and offer comprehensive support for kidney transplantation and metabolic bone diseases.
+                            Our experienced nephrologists deliver personalized care for conditions such as chronic kidney disease, kidney stones, hypertension-related kidney issues and dialysis support using modern protocols.
                         </p>
 
                         <!-- Innovation Highlight banner -->
@@ -759,7 +759,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-flask-vial"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-vials"></i></span>
                                         <h5>Specialized Services</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -782,7 +782,7 @@
                                 <p>Comprehensive Renal Panels</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass-chart"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-microscope"></i></div>
                                 <p>Automated Kidney Biopsy</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -830,7 +830,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Medical Gastroenterology | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Medical Gastroenterology | GEM Hospital Chennai - Expert Gastro Care</title>
+    <meta name="description" content="GEM Hospital Chennai provides advanced medical gastroenterology services for the diagnosis and treatment of digestive, liver, pancreatic and gastrointestinal disorders.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Medical Gastroenterology Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/medical-gastroenterology.php">
+    <meta property="og:title" content="Medical Gastroenterology | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced medical gastroenterology services for the diagnosis and treatment of digestive, liver, pancreatic and gastrointestinal disorders.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Medical%20Gastroenterology.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Medical Gastroenterology Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/medical-gastroenterology.php">
+    <meta property="twitter:title" content="Medical Gastroenterology | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced medical gastroenterology services for the diagnosis and treatment of digestive, liver, pancreatic and gastrointestinal disorders.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Medical%20Gastroenterology.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,102 +717,102 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Medical Gastroenterology at GEM Hospital">
+                            <img src="assets/images/service/Medical%20Gastroenterology.jpg" alt="Medical Gastroenterology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Expert Medical Gastroenterology Services</h2>
+                        <h2 class="title">Medical Gastroenterology</h2>
                         <p class="disc">
-                            GEM Hospital provides the most advanced technology and best-in-class services for treating medical Gastroenterology related conditions. As a leading clinical and academic center, we are dedicated to providing precise diagnoses and effective non-surgical management for a wide range of digestive disorders.
+                            GEM Hospital provides advanced medical gastroenterology services for the diagnosis and treatment of digestive, liver, pancreatic and gastrointestinal disorders.
                         </p>
                         <p class="disc">
-                            Our department is equipped with the state-of-the-art endoscopic facilities, including 24/7 Emergency Endoscopy and dedicated ICU support. We are proud to be pioneers in India, having performed the country's first POEM Procedure and advanced NOTES procedures.
+                            Our experienced gastroenterologists offer personalized care using advanced diagnostic technology, minimally invasive procedures and evidence-based treatment approaches.
                         </p>
 
-                        <!-- Innovation Highlight banner -->
+                        <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-bolt"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>24/7 Emergency Care</strong>
-                                <p>Our 24*7 Emergency Endoscopy services and specialized ICU facilities ensure the best outcomes for acute emergencies like GI bleeding.</p>
+                                <strong>Precision-Based Gastroenterology Care</strong>
+                                <p>GEM Hospital follows advanced gastroenterology protocols and modern diagnostic techniques to ensure accurate treatment and improved patient outcomes.</p>
                             </div>
                         </div>
 
-                        <!-- Specialized Care: 2-col card grid -->
+                        <!-- Diseases Treated: 2-col card grid -->
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-stethoscope"></i></span>
-                                        <h5>Conditions We Manage</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced Gastroenterology Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Peptic Ulcers &amp; Gastritis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Inflammatory Bowel Disease (IBD)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatitis &amp; Biliary Diseases</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Chronic Liver Diseases &amp; Cirrhosis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Gastrointestinal Bleeding</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Malabsorption &amp; Nutritional Disorders</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Acid Reflux &amp; GERD Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Liver Disease Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic Disorder Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Inflammatory Bowel Disease Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Gastrointestinal Infection Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Digestive Disorder Evaluation</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-kit-medical"></i></span>
-                                        <h5>Advanced Sub-specialties</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Diagnostic Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Therapeutic Endoscopy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Comprehensive Hepatology Unit</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Dedicated IBD Clinic</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>GI Motility &amp; Biofeedback Lab</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>High-Resolution Manometry</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>24-hour pH &amp; Impedance Studies</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Endoscopy Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Colonoscopy Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Definition Imaging Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Gastro Diagnostics</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive GI Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Real-Time Digestive Assessment</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">World-Class Endoscopy &amp; Diagnostics</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
-                                <p>HD Endoscopy &amp; Colonoscopy</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-diagram-project"></i></div>
-                                <p>ERCP &amp; Spyglass Cholangioscopy</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Endoscopic Ultrasound (EUS)</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
-                        <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Gastroenterology Advantage</h3>
+                        <!-- GEM Expertise -->
+                        <h3 class="title pt-5">GEM Advantage in Medical Gastroenterology</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Pioneering Procedures</strong>
-                                    <p>First in India for POEM for Achalasia Cardia and pioneers in NOTES (Natural Orifice Surgery).</p>
+                                    <strong>Expert Gastroenterology Team</strong>
+                                    <p>Experienced gastro specialists delivering comprehensive digestive care with precision-focused treatment approaches.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Comprehensive Motility Lab</strong>
-                                    <p>State-of-the-art lab for analyzing complex swallowing and bowel motility disorders.</p>
+                                    <strong>Advanced Diagnostic Support</strong>
+                                    <p>Modern imaging systems and minimally invasive procedures ensure accurate diagnosis and effective digestive care.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Multidisciplinary Synergy</strong>
-                                    <p>Seamless integration with HPB, Liver Transplant, and Surgical units for holistic patient care.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted gastroenterology and patient safety standards for enhanced healthcare outcomes.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our medical gastroenterology specialists for expert digestive care and advanced treatment solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Gastro Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Digestive Care</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Gastro Specialists</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Diagnostic Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Treatment Approach</li>
                         </ul>
                     </div>
 
@@ -907,7 +907,7 @@
                                 <span>Head of Division</span>
                             </div>
                         </div>
-                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with <strong>1000+</strong> esophageal cancer surgeries performed successfully.</p>
+                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with extensive contributions to gastroenterology education and innovative therapies.</p>
                         <a href="doctor.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
                             <i class="fa-solid fa-user-doctor"></i> View Profile
                         </a>
@@ -926,8 +926,8 @@
                                 <span>Surgeries Performed</span>
                             </div>
                             <div class="gem-stat-item">
-                                <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <strong>5000+</strong>
+                                <span>Gastro Procedures</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

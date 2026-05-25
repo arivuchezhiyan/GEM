@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="Medical Oncology Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Medical%20Oncology.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="Medical Oncology Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Medical%20Oncology.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -760,21 +760,17 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Medical Oncology at GEM Hospital">
+                            <img src="assets/images/service/Medical%20Oncology.png" alt="Medical Oncology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <!-- <div class="ugi-section-tag">OVERVIEW</div> -->
                         <h2 class="title">Advanced Centre for Upper GI Diseases in India</h2>
                         <p class="disc">
-                            The Division of Esophago-Gastric Surgery is one of the most advanced centres for Upper G.I
-                            diseases in India. The department carries out all major Esophago-gastric procedures by
-                            Laparoscopic &amp; Robotic approaches, including <strong>'CANCER'</strong> surgery.
+                            GEM Hospital provides advanced medical oncology services for the diagnosis and treatment of various cancers using precision-based and evidence-driven approaches.
                         </p>
                         <p class="disc">
-                            Our division is headed by one of the most renowned and dynamic surgeons in the field of
-                            Esophago-gastric surgery – <strong>Dr. C. Palanivelu</strong>, who has performed more than
-                            <strong>1000 laparoscopic esophagus and stomach cancer surgeries</strong> successfully.
+                            Our experienced medical oncologists deliver personalized care with chemotherapy, immunotherapy, targeted therapy, and supportive treatments following internationally accepted oncology protocols.
                         </p>
 
                         <!-- World-first highlight banner -->
@@ -830,16 +826,6 @@
                                         <li><i class="fa-solid fa-circle-check"></i>30+ years of trusted surgical excellence</li>
                                     </ul>
                                 </div>
-                            </div>
-                        </div>
-
-                        <!-- Image pair -->
-                        <div class="row mt--30 g-3">
-                            <div class="col-lg-4 col-md-5">
-                                <div class="thumbnail h-100"><img src="assets/images/service/11.webp" alt="service" style="height:100%;object-fit:cover;border-radius:12px;"></div>
-                            </div>
-                            <div class="col-lg-8 col-md-7">
-                                <div class="thumbnail h-100"><img src="assets/images/service/12.webp" alt="service" style="height:100%;object-fit:cover;border-radius:12px;"></div>
                             </div>
                         </div>
 
@@ -912,7 +898,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

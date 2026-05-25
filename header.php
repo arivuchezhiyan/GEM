@@ -76,58 +76,59 @@
                                     </div>
                                 </li>
                                 <li class="fw-medium">
-                                    <a href="master-health-checkup.php">Health Package</a>
+                                    <a href="https://gemhospitals.com/health-package">Health Package</a>
                                 </li>
                                 <li class="main-nav fw-medium has-dropdown">
                                     <a href="#">Academics</a>
                                     <ul class="submenu parent-nav">
-                                        <li><a href="#">MGR University</a></li>
-                                        <li><a href="#">NBE</a></li>
+                                        <li><a href="https://gemhospitals.com/mgr">MGR University</a></li>
+                                        <li><a href="https://gemhospitals.com/nbe">NBE</a></li>
                                     </ul>
                                 </li>
                                 <li class="main-nav fw-medium has-dropdown">
                                     <a href="doctor.php">Doctors</a>
                                     <ul class="submenu parent-nav">
-                                        <li><a href="#">Coimbatore</a></li>
-                                        <li><a href="#">Chennai - Perungudi</a></li>
-                                        <li><a href="#">Chennai - Aminjikarai</a></li>
-                                        <li><a href="#">Tiruppur</a></li>
-                                        <li><a href="#">Pondicherry</a></li>
-                                        <li><a href="#">Erode</a></li>
-                                        <li><a href="#">Thrissur</a></li>
+                                        <li><a href="https://gemhospitals.com/doctors-list/Coimbatore-Ramanathapuram">Coimbatore</a></li>
+                                        <li><a href="https://chennaigemhospital.in/doctors/">Chennai - Perungudi</a></li>
+                                        <li><a href="https://gemhospitals.com/doctors-list/Chennai-aminjikarai">Chennai - Aminjikarai</a></li>
+                                        <li><a href="https://gemhospitals.com/doctors-list/tiruppur">Tiruppur</a></li>
+                                        <li><a href="https://gemhospitals.com/doctors-list/pondicherry">Pondicherry</a></li>
+                                        <li><a href="https://gemhospitals.com/doctors-list/erode">Erode</a></li>
+                                        <li><a href="https://gemhospitalthrissur.com/doctors-team/">Thrissur</a></li>
                                     </ul>
                                 </li>
                                 <li class="main-nav fw-medium has-dropdown">
                                     <a href="#">Our Centers</a>
                                     <ul class="submenu parent-nav">
-                                         <li><a href="#">Coimbatore</a></li>
-                                        <li><a href="#">Chennai - Perungudi</a></li>
-                                        <li><a href="#">Chennai - Aminjikarai</a></li>
-                                        <li><a href="#">Tiruppur</a></li>
-                                        <li><a href="#">Pondicherry</a></li>
-                                        <li><a href="#">Erode</a></li>
-                                        <li><a href="#">Thrissur</a></li>
+                                         <li><a href="https://gemhospitals.com/coimbatore">Coimbatore</a></li>
+                                        <li><a href="https://chennaigemhospital.in/">Chennai - Perungudi</a></li>
+                                        <li><a href="https://gemhospitals.com/chennai-aminjikarai">Chennai - Aminjikarai</a></li>
+                                        <li><a href="https://gemhospitals.com/tiruppur">Tiruppur</a></li>
+                                        <li><a href="https://gemhospitals.com/pondicherry">Pondicherry</a></li>
+                                        <li><a href="https://gemhospitals.com/erode">Erode</a></li>
+                                        <li><a href="https://gemhospitalthrissur.com/">Thrissur</a></li>
                                     </ul>
                                 </li>
                                 <li class="main-nav fw-medium has-dropdown">
                                     <a href="#">Contact Us</a>
                                     <ul class="submenu parent-nav">
-                                        <li><a href="#">Contact Details</a></li>
+                                        <li><a href="https://gemhospitals.com/contactus">Contact Details</a></li>
                                     </ul>
                                 </li>
                                 <li class="main-nav fw-medium has-dropdown">
                                     <a href="#">More Info</a>
                                     <ul class="submenu parent-nav">
-                                        <li><a href="#">Blog</a></li>
-                                        <li><a href="#">Media</a></li>
-                                        <li><a href="infrastructure.php">Infrastructure</a></li>
-                                         <li><a href="#">Careers</a></li>
+                                        <li><a href="https://gemhospitals.com/blog">Blog</a></li>
+                                        <li><a href="https://gemhospitals.com/news">News</a></li>
+                                        <li><a href="https://gemhospitals.com/events">Events</a></li>
+                                        <li><a href="https://gemhospitals.com/conference">Conference</a></li>
+                                         <li><a href="https://gemhospitals.com/career">Careers</a></li>
                                     </ul>
                                 </li>
                             </ul>
                         </div>
                     <div class="header-right">
-                        <a href="#" class="rts-btn btn-primary-hospital">Book Appointment</a>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="rts-btn btn-primary-hospital">Book Appointment</a>
                         <div class="menu-btn" id="menu-btn">
                             <svg width="20" height="16" viewBox="0 0 20 16" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">

@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="General Surgery Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/General%20Surgery.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="General Surgery Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/General%20Surgery.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,16 +717,16 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="General Surgery at GEM Hospital">
+                            <img src="assets/images/service/General%20Surgery.png" alt="General Surgery at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <h2 class="title">Holistic General Surgery &amp; Advanced Care</h2>
                         <p class="disc">
-                            At GEM Hospital, we understand that surgical illnesses can be daunting. Our Department of General Surgery addresses your health problems holistically, combining a compassionate approach with the latest treatment modalities to ensure a seamless recovery and the highest patient safety.
+                            GEM Hospital provides advanced general surgery services for a wide range of surgical conditions using modern techniques and minimally invasive procedures.
                         </p>
                         <p class="disc">
-                            Our team of expert surgeons specializes in both elective and emergency general surgical procedures. We utilize evidence-based protocols and advanced diagnostic tools to provide personalized surgical plans tailored to each patient's unique needs.
+                            Our experienced surgeons deliver personalized care for abdominal, soft tissue and gastrointestinal surgeries with precision, safety, and internationally accepted surgical protocols.
                         </p>
 
                         <!-- Innovation Highlight banner -->
@@ -743,7 +743,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-scalpel-line-dotted"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-scalpel"></i></span>
                                         <h5>Key Surgical Services</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -830,7 +830,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

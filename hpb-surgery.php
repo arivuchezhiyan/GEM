@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>HPB Surgery | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>HPB Surgery &amp; Liver Care | GEM Hospital Chennai - Expert HPB Surgeons</title>
+    <meta name="description" content="GEM Hospital Chennai offers advanced HPB surgery services for liver, pancreas, and biliary disorders using minimally invasive and precision-based surgical techniques.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="HPB Surgery Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/hpb-surgery.php">
+    <meta property="og:title" content="HPB Surgery &amp; Liver Care | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced HPB surgery services for liver, pancreas, and biliary disorders using minimally invasive and precision-based surgical techniques.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/HPB%20Surgery.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="HPB Surgery Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/hpb-surgery.php">
+    <meta property="twitter:title" content="HPB Surgery &amp; Liver Care | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced HPB surgery services for liver, pancreas, and biliary disorders using minimally invasive and precision-based surgical techniques.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/HPB%20Surgery.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -766,183 +766,105 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="HPB Surgery at GEM Hospital">
+                            <img src="assets/images/service/HPB%20Surgery.jpg" alt="HPB Surgery at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Expert HPB Surgery &amp; Liver Care at GEM Hospital</h2>
+                        <h2 class="title">HPB Surgery</h2>
                         <p class="disc">
-                            GEM Hospital is a global leader in Hepatobiliary (HPB) and Pancreatic surgery. We hold the distinction of performing the <strong>world's first totally Laparoscopic Whipple’s procedure</strong> for pancreatic cancer in 1998, performed by our chairman <strong>Prof. C. Palanivelu</strong>.
+                            GEM Hospital offers advanced HPB surgery services for liver, pancreas and biliary disorders using minimally invasive and precision-based surgical techniques.
                         </p>
                         <p class="disc">
-                            Our department offers comprehensive care for complex liver, gallbladder, and pancreatic diseases using advanced Laparoscopic and Robotic surgical platforms. With a multidisciplinary team of surgeons, intensivists, and interventional radiologists, we ensure the highest standards of clinical excellence.
+                            Our experienced HPB specialists provide comprehensive care for complex hepatobiliary and pancreatic conditions with advanced technology and globally accepted treatment protocols.
                         </p>
 
                         <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-laptop-medical"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>Cutting-Edge Technology</strong>
-                                <p>We are the only center to offer both Laparoscopic and Robotic surgery for complex gallbladder, bile duct, liver, and pancreatic cancers, utilizing advanced 3D, 4K, and ICG-guided imaging.</p>
+                                <strong>Precision-Based HPB Treatment</strong>
+                                <p>GEM Hospital follows advanced surgical protocols and minimally invasive techniques to ensure safe treatment, faster recovery and improved patient outcomes.</p>
                             </div>
                         </div>
 
                         <!-- Diseases Treated: 2-col card grid -->
-                        <h3 class="title pt-4">Diseases Treated</h3>
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-kit-medical"></i></span>
-                                        <h5>Liver &amp; Biliary</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced HPB Surgical Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Liver Cancer &amp; Hydatid Cysts</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Cirrhosis &amp; Portal Hypertension</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Gallbladder Stones &amp; Cholecystitis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Bile Duct Stones &amp; Cholangitis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Choledochal Cysts</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Hilar Cholangiocarcinoma</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Liver Tumor Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic Surgery Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Gallbladder &amp; Bile Duct Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Complex Hepatobiliary Reconstruction</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive HPB Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Cancer Surgical Care</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-bacteria"></i></span>
-                                        <h5>Pancreas</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Surgical Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Acute &amp; Chronic Pancreatitis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic Cancer &amp; Cystic Tumors</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pseudocysts &amp; Necrosectomy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic Divisum &amp; Annular Pancreas</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Autoimmune Pancreatitis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pancreatic Trauma Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Robotic-Assisted HPB Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>HD 3D Laparoscopic Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Surgical Imaging</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Intraoperative Monitoring</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Surgical Techniques</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Care</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Facilities Available -->
-                        <h3 class="title pt-5">Advanced Facilities</h3>
+                        <!-- Diagnostic Grid -->
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Robotic Surgery Platform"></div>
-                                <p>Robotic Surgery Platform</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
-                                <p>ICG Guided Resections</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Intraoperative Ultrasound</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass-plus"></i></div>
-                                <p>Spyglass Cholangioscopy</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-bolt"></i></div>
-                                <p>Radio Frequency Ablation</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-syringe"></i></div>
-                                <p>TACE &amp; Angio Embolization</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
                         <!-- GEM Expertise -->
-                        <h3 class="title pt-5">Why Choose GEM for HPB Surgery?</h3>
+                        <h3 class="title pt-5">GEM Advantage in HPB Surgery</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Whipple's Procedure Pioneer</strong>
-                                    <p>Largest experience in Laparoscopic Whipple’s surgery globally.</p>
+                                    <strong>Expert HPB Surgical Team</strong>
+                                    <p>Experienced surgeons specializing in advanced liver, pancreas and biliary surgical procedures with precision-focused care.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Multidisciplinary Tumor Board</strong>
-                                    <p>Evidence-based personalized care for hepatobiliary malignancies.</p>
+                                    <strong>Advanced Treatment Approach</strong>
+                                    <p>Modern surgical technology and minimally invasive procedures support accurate treatment and improved recovery outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Round-the-clock Critical Care</strong>
-                                    <p>Dedicated ICU with 24/7 specialist intensivists for complex post-op care.</p>
-                                </div>
-                            </div>
-                            <div class="ugi-surgery-item ugi-surgery-item--accent">
-                                <div class="ugi-surgery-num">04</div>
-                                <div class="ugi-surgery-text">
-                                    <strong>Interventional Radiology Support</strong>
-                                    <p>Expert percutaneous therapeutic interventions for liver and pancreatic diseases.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted HPB surgical and patient safety standards for enhanced healthcare delivery.</p>
                                 </div>
                             </div>
                         </div>
-
-
-                        <!-- DISEASES TREATED -->
-                        <!-- <div class="ugi-section-tag mt--50">DISEASES TREATED</div> -->
-                        <h3 class="title pt-5">Conditions We Treat</h3>
-                        <div class="ugi-tag-grid">
-                            <span><i class="fa-solid fa-circle-dot"></i> Gastroesophageal Reflux Disease (GERD)</span>
-                            <span><i class="fa-solid fa-circle-dot"></i> Hiatus hernia</span>
-                            <span><i class="fa-solid fa-circle-dot"></i> Achalasia Cardia &amp; other motility disorders of the esophagus</span>
-                            <span><i class="fa-solid fa-circle-dot"></i> Corrosive esophago-gastric injuries (acid / alkali ingestion)</span>
-                            <span><i class="fa-solid fa-circle-dot"></i> Stomach / Gastric cancers, GISTs, NETs</span>
-                            <span><i class="fa-solid fa-circle-dot"></i> Esophageal Cancers</span>
-                            <span><i class="fa-solid fa-circle-dot"></i> GE Junction tumors</span>
-                        </div>
-
-                        <!-- DIAGNOSTIC MODALITIES -->
-                        <!-- <div class="ugi-section-tag mt--50">DIAGNOSTIC MODALITIES</div> -->
-                        <h3 class="title pt-5">Advanced Diagnostic Tools</h3>
-                        <div class="ugi-diag-grid">
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"></div>
-                                <p>Upper G.I Endoscopy (OGD)</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
-                                <p>Rapid Urease Test for H.Pylori</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"></div>
-                                <p>Narrow Band Imaging (NBI) – Early Cancer Detection</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"></div>
-                                <p>High Resolution Esophageal Manometry with Impedance</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-clock"></i></div>
-                                <p>24-Hour pH Study</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Endoscopic Ultrasound (EUS)</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-flask"></i></div>
-                                <p>Barium/Gastrograffin Swallow &amp; Follow-through Studies</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Ultrasound of Abdomen (USG)</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-x-ray"></i></div>
-                                <p>Multidetector CT Scan – Cancer Specific Protocols</p>
-                            </div>
-                        </div>
-
-
                     </div>
                 </div>
                 <div class="col-lg-3 order-lg-1">
@@ -953,9 +875,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our HPB surgery specialists for advanced diagnosis, expert surgical care and personalized treatment solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -969,54 +891,54 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in HPB Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced HPB Surgical Expertise</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision-Based Treatment Approach</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Critical Care Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Experienced Multidisciplinary Team</li>
                         </ul>
                     </div>
 
                     <!-- Card 4: Surgeries Performed -->
                     <div class="gem-sidebar-card gem-surgery-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-scalpel"></i> Surgeries Performed
+                            <i class="fa-solid fa-scalpel"></i> HPB Surgeries
                         </h5>
                         <div class="gem-surgery-list">
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">01</span>
-                                <span class="gsli-text">Laparoscopic Antireflux / Nissen's Fundoplication</span>
+                                <span class="gsli-text">Laparoscopic/Robotic Whipple's Procedure</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">02</span>
-                                <span class="gsli-text">Hiatal / Paraesophageal Hernia Repair</span>
+                                <span class="gsli-text">Laparoscopic/Robotic Liver Resections</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">03</span>
-                                <span class="gsli-text">Surgery for Achalasia Cardia &amp; Redo-Heller's Myotomy</span>
+                                <span class="gsli-text">Laparoscopic Gallbladder Surgery</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">04</span>
-                                <span class="gsli-text">Corrosive Esophago-Gastric Injury Surgery</span>
+                                <span class="gsli-text">Bile Duct Reconstruction &amp; Anastomosis</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">05</span>
-                                <span class="gsli-text">Laparoscopic Trucal Vagotomy &amp; Gastrojejunostomy</span>
+                                <span class="gsli-text">Laparoscopic Pancreatectomy</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">06</span>
-                                <span class="gsli-text">Benign Esophageal Diseases (Leiomyoma, Diverticulum)</span>
+                                <span class="gsli-text">Surgery for Choledochal Cyst</span>
                             </div>
                             <div class="gem-surgery-list-item gem-surgery-list-item--robotic">
                                 <span class="gsli-num">07</span>
-                                <span class="gsli-text">Robotic/Lap. Esophageal &amp; Stomach Cancer Surgery</span>
+                                <span class="gsli-text">Pancreatic Necrosectomy</span>
                             </div>
                             <div class="gem-surgery-list-item gem-surgery-list-item--robotic">
                                 <span class="gsli-num">08</span>
-                                <span class="gsli-text">Robotic/Lap. Resection of GIST &amp; NET</span>
+                                <span class="gsli-text">ICG-Guided Liver &amp; Biliary Surgery</span>
                             </div>
                         </div>
                     </div>
@@ -1032,7 +954,7 @@
                                 <span>Head of Division</span>
                             </div>
                         </div>
-                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with <strong>1000+</strong> esophageal cancer surgeries performed successfully.</p>
+                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery who performed the world's first totally laparoscopic Whipple's procedure.</p>
                         <a href="doctor.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
                             <i class="fa-solid fa-user-doctor"></i> View Profile
                         </a>
@@ -1052,7 +974,7 @@
                             </div>
                             <div class="gem-stat-item">
                                 <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <span>Whipple's Procedures</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

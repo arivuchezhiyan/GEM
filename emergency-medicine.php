@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Emergency Medicine | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Emergency Medicine | GEM Hospital Chennai - 24/7 Rapid Emergency Care</title>
+    <meta name="description" content="GEM Hospital Chennai provides advanced emergency medicine services with rapid response care for critical injuries, medical emergencies and life-threatening conditions.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Emergency Medicine Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/emergency-medicine.php">
+    <meta property="og:title" content="Emergency Medicine | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced emergency medicine services with rapid response care for critical injuries, medical emergencies and life-threatening conditions.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Emergency%20Medicine.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Emergency Medicine Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/emergency-medicine.php">
+    <meta property="twitter:title" content="Emergency Medicine | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced emergency medicine services with rapid response care for critical injuries, medical emergencies and life-threatening conditions.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Emergency%20Medicine.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,88 +717,104 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Emergency Medicine at GEM Hospital">
+                            <img src="assets/images/service/Emergency%20Medicine.png" alt="Emergency Medicine at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">24x7 Emergency Care Excellence</h2>
+                        <h2 class="title">Emergency Medicine</h2>
                         <p class="disc">
-                            The Emergency Department at GEM Hospital is dedicated to providing prompt, compassionate, and expert care when every second counts. Our facility is a central hub for the community, delivering high-quality, ethical medical services with a specialized focus on Gastroenterology and Abdominal emergencies.
+                            GEM Hospital provides advanced emergency medicine services with rapid response care for critical injuries, medical emergencies and life-threatening conditions.
                         </p>
                         <p class="disc">
-                            Led by <strong>Dr. V. Vanmathy</strong>, our multidisciplinary team of consultants, surgeons, and trained nurses ensures seamless coordination for life-saving interventions. We are equipped to handle complex cases ranging from GI bleeds and liver diseases to urological and gynecological emergencies.
+                            Our experienced emergency care specialists deliver immediate diagnosis, stabilization and treatment support using advanced monitoring systems and critical care protocols.
                         </p>
 
-                        <!-- Innovation Highlight banner -->
+                        <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-truck-medical"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>Rapid Response System</strong>
-                                <p>Our 24/7 emergency response includes pre-hospital ambulance services, advanced triage systems, and immediate access to senior surgical consultants for critical care.</p>
+                                <strong>Precision-Based Emergency Care</strong>
+                                <p>GEM Hospital follows advanced emergency medicine protocols and rapid treatment approaches to ensure timely intervention and improved patient outcomes.</p>
                             </div>
                         </div>
 
-                        <!-- Specialized Care: 2-col card grid -->
+                        <!-- Diseases Treated: 2-col card grid -->
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-house-medical-circle-exclamation"></i></span>
-                                        <h5>Emergency Expertise</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced Emergency Care Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Acute Abdomen &amp; Appendicitis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>GI Bleed Management</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Gallbladder &amp; Pancreatic Crisis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Urological Emergencies</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Obstetric &amp; Gynae Emergencies</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Trauma &amp; Resuscitation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Trauma &amp; Accident Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Emergency Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Stroke Emergency Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Critical Medical Stabilization</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Poisoning &amp; Infection Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Emergency Surgical Coordination</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-hospital-user"></i></span>
-                                        <h5>ER Facilities</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Emergency Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>11-Bed Triage-Zone ER</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>24/7 Advanced Diagnostics (CT/X-Ray)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Round-the-clock Lab Services</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>BLS &amp; ACLS Trained Staff</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Emergency Dialysis Support</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Cardiac Thrombolysis Unit</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Patient Monitoring Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Emergency Imaging &amp; Diagnostics</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Critical Care Ventilator Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Rapid Response Treatment Units</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Emergency Evaluation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Dependency Critical Care Support</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">24/7 Support Services</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-ambulance"></i></div>
-                                <p>Pre-hospital Ambulance</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-bullseye"></i></div>
+                                <p>Immediate Medical Assessment</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-flask-vial"></i></div>
-                                <p>24/7 Laboratory</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
+                                <p>Advanced Emergency Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-bed-pulse"></i></div>
-                                <p>ICU &amp; Critical Care</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Critical Care Management Planning</p>
                             </div>
                         </div>
 
-                        <!-- GEM Advantage -->
-                        <h3 class="title pt-5">Adult Immunization Center</h3>
-                        <p class="disc">Beyond emergency care, we offer a comprehensive immunization wing to protect the community against preventable diseases:</p>
-                        <div class="ugi-tag-grid">
-                            <span><i class="fa-solid fa-syringe"></i> Influenza &amp; Pneumococcal</span>
-                            <span><i class="fa-solid fa-syringe"></i> Hepatitis A &amp; B</span>
-                            <span><i class="fa-solid fa-syringe"></i> Typhoid &amp; Rabies</span>
-                            <span><i class="fa-solid fa-syringe"></i> HPV &amp; Rubella</span>
+                        <!-- GEM Expertise -->
+                        <h3 class="title pt-5">GEM Advantage in Emergency Medicine</h3>
+                        <div class="ugi-surgery-timeline">
+                            <div class="ugi-surgery-item">
+                                <div class="ugi-surgery-num">01</div>
+                                <div class="ugi-surgery-text">
+                                    <strong>Expert Emergency Care Team</strong>
+                                    <p>Experienced emergency specialists delivering rapid diagnosis and advanced critical care for medical emergencies.</p>
+                                </div>
+                            </div>
+                            <div class="ugi-surgery-item ugi-surgery-item--accent">
+                                <div class="ugi-surgery-num">02</div>
+                                <div class="ugi-surgery-text">
+                                    <strong>Advanced Critical Care Support</strong>
+                                    <p>Modern emergency infrastructure and advanced monitoring systems ensure timely treatment and improved patient safety.</p>
+                                </div>
+                            </div>
+                            <div class="ugi-surgery-item">
+                                <div class="ugi-surgery-num">03</div>
+                                <div class="ugi-surgery-text">
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted emergency medicine and patient safety standards for quality emergency healthcare delivery.</p>
+                                </div>
+                            </div>
                         </div>
 
 
@@ -812,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Connect with our emergency medicine specialists for immediate medical attention and advanced critical care support.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -828,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Emergency Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> 24/7 Emergency Services</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Rapid Response Medical Team</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Critical Care Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Emergency Diagnostic Facilities</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Trauma Care</li>
                         </ul>
                     </div>
 
@@ -910,8 +926,8 @@
                                 <span>Surgeries Performed</span>
                             </div>
                             <div class="gem-stat-item">
-                                <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <strong>24/7</strong>
+                                <span>Rapid Response</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

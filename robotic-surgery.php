@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Robotic Surgery | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Robotic Surgery | GEM Hospital Chennai - Advanced Robotic Surgical Care</title>
+    <meta name="description" content="GEM Hospital Chennai offers advanced robotic surgery services using precision-driven technology for minimally invasive procedures with enhanced accuracy and faster recovery.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Robotic Surgery Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/robotic-surgery.php">
+    <meta property="og:title" content="Robotic Surgery | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced robotic surgery services using precision-driven technology for minimally invasive procedures with enhanced accuracy and faster recovery.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Robotic%20Surgery.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Robotic Surgery Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/robotic-surgery.php">
+    <meta property="twitter:title" content="Robotic Surgery | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced robotic surgery services using precision-driven technology for minimally invasive procedures with enhanced accuracy and faster recovery.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Robotic%20Surgery.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,113 +717,102 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Robotic Surgery at GEM Hospital">
+                            <img src="assets/images/service/Robotic%20Surgery.png" alt="Robotic Surgery at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">A New Era of Surgical Excellence: Robotic Surgery</h2>
+                        <h2 class="title">Robotic Surgery</h2>
                         <p class="disc">
-                            Immerse yourself in a new era of surgical excellence at GEM Hospital's Robotic Surgery unit, redefining the standards of care. We are pioneers in utilizing robotic technology to provide the highest level of precision and safety for complex gastrointestinal and oncological procedures.
+                            GEM Hospital offers advanced robotic surgery services using precision-driven technology for minimally invasive procedures with enhanced accuracy and faster recovery.
                         </p>
                         <p class="disc">
-                            Our robotic platform allows surgeons to perform intricate surgeries with enhanced visualization and dexterity, ensuring not just a medical intervention but a superior patient experience with faster healing and minimal discomfort.
+                            Our experienced robotic surgeons perform complex surgical procedures across multiple specialties using advanced robotic systems and internationally accepted clinical protocols.
                         </p>
 
                         <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-robot"></i>
+                            <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>Pioneering Precision</strong>
-                                <p>GEM Hospital is at the forefront of robotic-assisted surgery, offering tangible benefits like significantly reduced pain, minimal blood loss, and fewer complications compared to traditional methods.</p>
+                                <strong>Precision-Based Robotic Treatment</strong>
+                                <p>GEM Hospital utilizes advanced robotic surgical systems to deliver enhanced precision, reduced complications and improved patient outcomes.</p>
                             </div>
                         </div>
 
                         <!-- Benefits: 2-col card grid -->
-                        <h3 class="title pt-4">Benefits of Robotic Surgery</h3>
                         <div class="row g-4 mt--10">
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-crosshairs"></i></span>
-                                        <h5>Surgical Precision</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-doctor"></i></span>
+                                        <h5>Advanced Robotic Surgical Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>High-definition 3D visualization</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Enhanced dexterity &amp; range of motion</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Tremor filtration for steady movements</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Access to narrow anatomical spaces</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Greater surgical accuracy</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Robotic Gastrointestinal Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Robotic Hernia Repair</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Robotic HPB Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Robotic Colorectal Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Complex Minimally Invasive Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Cancer Surgery</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-user-shield"></i></span>
-                                        <h5>Patient Recovery</h5>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                        <h5>Modern Robotic Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Significantly reduced post-op pain</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Minimal blood loss &amp; transfusion risk</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Dime-sized incisions for minimal scarring</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Faster return to daily activities</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Lower risk of wound infections</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Precision Robotic Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>HD 3D Surgical Visualization</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Enhanced Instrument Control</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Surgical Navigation</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Technology</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Procedures</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Robotics Applications Grid -->
-                        <h3 class="title pt-5">Robotic Applications at GEM</h3>
+                        <!-- Diagnostic Grid -->
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-dna"></i></div>
-                                <p>Robotic Cancer Surgery</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-weight-hanging"></i></div>
-                                <p>Robotic Bariatric Surgery</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-shield-halved"></i></div>
-                                <p>Robotic Hernia Repair</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-diagram-project"></i></div>
-                                <p>Robotic HPB Surgery</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-arrows-to-circle"></i></div>
-                                <p>Robotic Colorectal Surgery</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-hand-holding-medical"></i></div>
-                                <p>Complex Reconstructions</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
-                        <!-- Why Robotic? -->
-                        <h3 class="title pt-5">The GEM Robotic Advantage</h3>
+                        <!-- GEM Expertise -->
+                        <h3 class="title pt-5">GEM Advantage in Robotic Surgery</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>da Vinci Surgical System</strong>
-                                    <p>Utilizing the latest generation da Vinci robot for unmatched surgical precision.</p>
+                                    <strong>Expert Robotic Surgical Team</strong>
+                                    <p>Experienced robotic surgeons delivering advanced minimally invasive procedures with precision-focused surgical expertise.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Experienced Robotic Team</strong>
-                                    <p>Our surgeons are internationally trained and have performed thousands of robotic procedures.</p>
+                                    <strong>Advanced Surgical Technology</strong>
+                                    <p>Modern robotic systems and enhanced visualization technologies ensure greater surgical accuracy and improved patient recovery.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Multidisciplinary Care</strong>
-                                    <p>Comprehensive support from anesthesia to post-operative rehabilitation for smooth recovery.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted robotic surgery and patient safety standards for superior clinical outcomes.</p>
                                 </div>
                             </div>
                         </div>
@@ -839,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our robotic surgery specialists for advanced, precise and minimally invasive surgical care.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -855,54 +844,54 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Robotic Surgery
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Robotic Technology</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Surgical Techniques</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Faster Recovery Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Experienced Surgical Specialists</li>
                         </ul>
                     </div>
 
                     <!-- Card 4: Surgeries Performed -->
                     <div class="gem-sidebar-card gem-surgery-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-scalpel"></i> Surgeries Performed
+                            <i class="fa-solid fa-scalpel"></i> Robotic Procedures
                         </h5>
                         <div class="gem-surgery-list">
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">01</span>
-                                <span class="gsli-text">Laparoscopic Antireflux / Nissen's Fundoplication</span>
+                                <span class="gsli-text">Robotic Gastric Bypass &amp; Sleeve Gastrectomy</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">02</span>
-                                <span class="gsli-text">Hiatal / Paraesophageal Hernia Repair</span>
+                                <span class="gsli-text">Robotic Hernia Repair (Inguinal, Ventral)</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">03</span>
-                                <span class="gsli-text">Surgery for Achalasia Cardia &amp; Redo-Heller's Myotomy</span>
+                                <span class="gsli-text">Robotic Cholecystectomy &amp; Hepatectomy</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">04</span>
-                                <span class="gsli-text">Corrosive Esophago-Gastric Injury Surgery</span>
+                                <span class="gsli-text">Robotic Colectomy &amp; Rectal Resections</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">05</span>
-                                <span class="gsli-text">Laparoscopic Trucal Vagotomy &amp; Gastrojejunostomy</span>
+                                <span class="gsli-text">Robotic Prostatectomy &amp; Cystectomy</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">06</span>
-                                <span class="gsli-text">Benign Esophageal Diseases (Leiomyoma, Diverticulum)</span>
+                                <span class="gsli-text">Robotic Gynaecologic Surgeries</span>
                             </div>
                             <div class="gem-surgery-list-item gem-surgery-list-item--robotic">
                                 <span class="gsli-num">07</span>
-                                <span class="gsli-text">Robotic/Lap. Esophageal &amp; Stomach Cancer Surgery</span>
+                                <span class="gsli-text">Robotic Whipple's Procedure</span>
                             </div>
                             <div class="gem-surgery-list-item gem-surgery-list-item--robotic">
                                 <span class="gsli-num">08</span>
-                                <span class="gsli-text">Robotic/Lap. Resection of GIST &amp; NET</span>
+                                <span class="gsli-text">Robotic Oesophagectomy</span>
                             </div>
                         </div>
                     </div>
@@ -918,7 +907,7 @@
                                 <span>Head of Division</span>
                             </div>
                         </div>
-                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with <strong>1000+</strong> esophageal cancer surgeries performed successfully.</p>
+                        <p class="gem-doctor-bio">World-renowned pioneer in laparoscopic &amp; robotic surgery with extensive experience in advanced robotic-assisted procedures.</p>
                         <a href="doctor.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
                             <i class="fa-solid fa-user-doctor"></i> View Profile
                         </a>
@@ -937,8 +926,8 @@
                                 <span>Surgeries Performed</span>
                             </div>
                             <div class="gem-stat-item">
-                                <strong>1000+</strong>
-                                <span>Cancer Surgeries</span>
+                                <strong>5000+</strong>
+                                <span>Robotic Procedures</span>
                             </div>
                             <div class="gem-stat-item">
                                 <strong>24/7</strong>

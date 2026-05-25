@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="Multi- Organ Transplant Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Multi-%20Organ%20Transplant.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="Multi- Organ Transplant Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Multi-%20Organ%20Transplant.png">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -735,16 +735,16 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Multi- Organ Transplant at GEM Hospital">
+                            <img src="assets/images/service/Multi-%20Organ%20Transplant.png" alt="Multi- Organ Transplant at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <h2 class="title">World-Class Multi-Organ Transplant Services</h2>
                         <p class="disc">
-                            GEM Hospital is at the forefront of transplant medicine in India, offering comprehensive <strong>Liver, Kidney, and Pancreas</strong> transplantation services. Our transplant program is built on a foundation of clinical excellence, pioneering surgical techniques, and compassionate patient care.
+                            GEM Hospital provides advanced multi-organ transplant services for patients requiring liver, kidney, pancreas and combined organ transplants using cutting-edge surgical techniques.
                         </p>
                         <p class="disc">
-                            We are pioneers in the field, having performed South India’s first successful Laparoscopic Living Donor Liver retrieval. Our team of world-renowned transplant surgeons utilizes the most advanced robotic and laparoscopic technologies to ensure the highest success rates and faster recovery for our patients.
+                            Our experienced transplant surgeons deliver personalized care with multidisciplinary support, modern preoperative evaluation and internationally accepted transplant protocols to ensure optimal outcomes.
                         </p>
 
                         <!-- Innovation Highlight banner -->
@@ -848,7 +848,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>

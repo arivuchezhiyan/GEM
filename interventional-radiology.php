@@ -13,14 +13,14 @@
     <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="og:title" content="Interventional Radiology Excellence | GEM Hospital Chennai">
     <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Intervenntional%20Radiology.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
     <meta property="twitter:title" content="Interventional Radiology Excellence | GEM Hospital Chennai">
     <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Intervenntional%20Radiology.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,16 +717,16 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Interventional Radiology at GEM Hospital">
+                            <img src="assets/images/service/Intervenntional%20Radiology.jpg" alt="Interventional Radiology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
                         <h2 class="title">Precision Interventional Radiology Care</h2>
                         <p class="disc">
-                            GEM Interventional Radiology leads the way in minimally invasive medicine, combining advanced imaging with radiology-guided interventions for precise diagnosis and treatment. This specialized field allows for complex procedures through pinhole-sized punctures, eliminating the need for major incisions or general anesthesia in many cases.
+                            GEM Hospital provides advanced interventional radiology services using minimally invasive imaging-guided procedures for precise diagnosis and treatment of complex conditions.
                         </p>
                         <p class="disc">
-                            Our department, led by <strong>Dr. V. Aravinda Narasimhan</strong>, utilizes cutting-edge image-guided technology to treat diseases across nearly every organ system. By focusing on minimal invasiveness, we ensure reduced risk, faster recovery times, and significantly less pain for our patients.
+                            Our experienced interventional radiologists deliver personalized care with cutting-edge techniques for vascular, oncologic and organ-specific interventions, ensuring safer procedures and faster recovery.
                         </p>
 
                         <!-- Innovation Highlight banner -->
@@ -830,7 +830,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -900,10 +900,10 @@
                     <div class="gem-sidebar-card gem-doctor-card">
                         <div class="gem-doctor-header">
                             <div class="gem-doctor-avatar">
-                                <img src="assets/images/team/aravind-narasimhan.png" alt="Dr. V. Aravinda Narasimhan">
+                                <img src="assets/images/team/palanivelu.png" alt="Dr. C. Palanivelu">
                             </div>
                             <div class="gem-doctor-info">
-                                <h5>Dr. V. Aravinda Narasimhan</h5>
+                                <h5>Dr. C. Palanivelu</h5>
                                 <span>Senior Consultant</span>
                             </div>
                         </div>

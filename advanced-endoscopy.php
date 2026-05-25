@@ -15,7 +15,7 @@
     <meta property="og:title" content="Advanced Therapeutic Endoscopy | GEM Hospital Chennai">
     <meta property="og:description"
         content="Leading the way in scarless procedures. GEM Hospital performed the Country’s First POEM Procedure. Expert care for complex GI conditions.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Advanced%20Endoscopy.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
@@ -23,7 +23,7 @@
     <meta property="twitter:title" content="Advanced Therapeutic Endoscopy | GEM Hospital Chennai">
     <meta property="twitter:description"
         content="Leading the way in scarless procedures. GEM Hospital performed the Country’s First POEM Procedure. Expert care for complex GI conditions.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Advanced%20Endoscopy.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -791,43 +791,27 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Advanced Endoscopy at GEM Hospital"
+                            <img src="assets/images/service/Advanced%20Endoscopy.jpg" alt="Advanced Endoscopy at GEM Hospital"
                                 class="rounded-3 shadow">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title mt--30">Advanced Therapeutic Endoscopy at GEM Hospital</h2>
+                        <h2 class="title mt--30">Advanced Endoscopy</h2>
                         <p class="disc">
-                            Our department of advanced therapeutic endoscopy is led by <strong>Dr. R Vinoth Kumar
-                                D.M</strong>, an expert in all kinds of therapeutic endoscopic procedures. GEM Hospital
-                            is a high-load center performing a wide range of endoscopic interventions including ERCP,
-                            Spyglass Cholangioscopy, EUS, Therapeutic enteral stenting, double balloon endoscopy, and
-                            POEM.
+                            GEM Hospital offers advanced endoscopy services using modern diagnostic and therapeutic procedures for accurate detection, early intervention and minimally invasive digestive care.
                         </p>
                         <p class="disc">
-                            Endoscopy is a non-surgical procedure used to examine the digestive tract. During an upper
-                            endoscopy, an endoscope is passed through the mouth and throat into the esophagus, allowing
-                            the doctor to view the esophagus, stomach, and the upper part of the small intestine.
-                            Similarly, colonoscopy allows examination of the large intestine, while specialized
-                            procedures like ERCP provide imaging of the pancreas and gallbladder.
+                            Our expert gastroenterologists perform advanced endoscopic procedures for gastrointestinal, liver, pancreatic and colorectal conditions using high-precision technology and patient-focused care.
                         </p>
 
                         <!-- Pioneering Banner -->
                         <div class="ugi-highlight-banner">
                             <i class="fa-solid fa-trophy"></i>
                             <div>
-                                <strong>Pioneering Excellence</strong>
-                                <p>GEM Hospital holds the distinction of performing the <strong>Country’s First POEM
-                                        Procedure</strong> for Achalasia Cardia and several other hybrid Lap-assisted
-                                    Endoscopic procedures.</p>
+                                <strong>Precision-Based Endoscopy Care</strong>
+                                <p>GEM Hospital utilizes advanced endoscopic technology and internationally accepted protocols for accurate diagnosis, effective treatment and faster patient recovery.</p>
                             </div>
                         </div>
-
-                        <p class="disc">
-                            GEM Hospital is recognized as one of the best endoscopy centers in Coimbatore and Chennai.
-                            With its pioneering work, it has established itself as a leading healthcare provider in
-                            Gastroenterology, Robotic surgery, and Therapeutic Endoscopy.
-                        </p>
 
                         <!-- Expertise & Treatment Grid -->
                         <div class="row g-4 mt--10">
@@ -835,20 +819,15 @@
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-notes-medical"></i></span>
-                                        <h5>Disease &amp; Treatment</h5>
+                                        <h5>Advanced Endoscopy Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Stop active bleeding from ulcers
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Remove polyps to prevent colon
-                                            cancer</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Remove gallstones from the bile duct
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Diagnosis of tumors (Pancreas, Lung)
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Ultrasound exam of GI tract</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Liver biopsies for
-                                            inflammation/fibrosis</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Upper GI Endoscopy</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Colonoscopy Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Therapeutic Endoscopy</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>ERCP &amp; EUS Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>GI Bleeding Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Polyp Removal &amp; Biopsy</li>
                                     </ul>
                                 </div>
                             </div>
@@ -856,49 +835,34 @@
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-hospital"></i></span>
-                                        <h5>GEM’s Advanced Facilities</h5>
+                                        <h5>Modern Endoscopy Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>24/7 Emergency Endoscopy &amp; ICU
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>High-Resolution HD Endoscopes</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Endoscopic Ultrasound (EUS) &amp;
-                                            ERCP</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>High-Resolution Manometry Lab</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>24-hour pH &amp; Impedance studies
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Biofeedback &amp; Motility Lab</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Definition Endoscopy Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Narrow Band Imaging</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Precision Diagnostic Imaging</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive GI Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Real-Time Visualization Technology</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Care</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Specialized Procedures Grid -->
-                        <h3 class="title pt-5">Key Endoscopic Procedures</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
-                                <p>Upper GI &amp; Colonoscopy</p>
+                                <p>Expert Gastro Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-diagram-project"></i></div>
-                                <p>ERCP (Bile/Pancreas)</p>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Endoscopic Ultrasound (EUS)</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-bolt"></i></div>
-                                <p>POEM Procedure</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass-plus"></i></div>
-                                <p>Spyglass Cholangioscopy</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-circle-dot"></i></div>
-                                <p>Double-Balloon Enteroscopy</p>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
@@ -935,21 +899,11 @@
                             </div>
                         </div>
 
-                        <h3 class="title pt-5">Supportive &amp; Other Procedures</h3>
-                        <p class="disc">
-                            Our referral center handles all kinds of advanced therapeutic interventions to improve
-                            patient nutrition and quality of life:
-                        </p>
+                        <h3 class="title pt-5">GEM Advantage in Advanced Endoscopy</h3>
                         <ul class="ugi-card-list">
-                            <li><i class="fa-solid fa-circle-check"></i><strong>Feeding/PEG Tube Insertion</strong>:
-                                Endoscopic insertion for patients with swallowing difficulties.</li>
-                            <li><i class="fa-solid fa-circle-check"></i><strong>Enteral &amp; Esophageal
-                                    Stenting</strong>: To relieve obstructions and improve nutrition in advanced cancer
-                                patients.</li>
-                            <li><i class="fa-solid fa-circle-check"></i><strong>Colonic Stenting</strong>: To relieve
-                                intestinal obstruction and restore normal function in cancer cases.</li>
-                            <li><i class="fa-solid fa-circle-check"></i><strong>Double-Balloon Enteroscopy</strong>: To
-                                visualize the small bowel for diagnosing Crohn’s disease or malabsorption.</li>
+                            <li><i class="fa-solid fa-circle-check"></i><strong>Expert Endoscopy Team</strong>: Experienced gastroenterologists specializing in advanced diagnostic and therapeutic endoscopic procedures.</li>
+                            <li><i class="fa-solid fa-circle-check"></i><strong>Precision-Based Diagnosis</strong>: Modern imaging systems and advanced endoscopic techniques ensure accurate evaluation and effective treatment outcomes.</li>
+                            <li><i class="fa-solid fa-circle-check"></i><strong>International Care Standards</strong>: Procedures performed following globally recognized gastroenterology and patient safety protocols for enhanced care and recovery.</li>
                         </ul>
 
                         <!-- <div class="ugi-highlight-banner mt--30" style="background: linear-gradient(135deg, #f0faf5, #e0f5ea); border-left: 4px solid #e8a000;">
@@ -970,9 +924,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book Appointment</h4>
-                        <p>Get expert care from our specialist doctors. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our experienced endoscopy specialists for accurate diagnosis and advanced digestive care solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -985,13 +939,13 @@
 
                     <!-- Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
-                        <h5 class="gem-stats-title"><i class="fa-solid fa-award"></i> Why GEM Hospital?</h5>
+                        <h5 class="gem-stats-title"><i class="fa-solid fa-award"></i> Excellence in Endoscopy Care</h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> India's First POEM Center</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 12+ In-house Endoscopes</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Expert DM Faculty</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 24/7 ICU &amp; Emergency</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Diagnostic Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Techniques</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Gastro Specialists</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Precision Imaging Technology</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Digestive Care</li>
                         </ul>
                     </div>
 
@@ -999,7 +953,7 @@
                     <div class="gem-sidebar-card gem-doctor-card">
                         <div class="gem-doctor-header">
                             <div class="gem-doctor-avatar">
-                                <img src="assets/images/team/palanivelu.png" alt="Dr. R Vinoth Kumar">
+                                <img src="assets/images/team/vinoth-kumar.png" alt="Dr. R Vinoth Kumar">
                             </div>
                             <div class="gem-doctor-info">
                                 <h5>Dr. R Vinoth Kumar</h5>
@@ -1008,7 +962,7 @@
                         </div>
                         <p class="gem-doctor-bio">Lead expert in therapeutic endoscopy, ERCP, and pioneering scarless
                             procedures like POEM.</p>
-                        <a href="doctor.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
+                        <a href="dr-r-vinoth-kumar-md.php" class="gem-sidebar-btn gem-sidebar-btn-outline">
                             <i class="fa-solid fa-user-doctor"></i> View Profile
                         </a>
                     </div>

@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Anesthesia And Pain Clinic | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Anesthesia and Pain Clinic | GEM Hospital Chennai - Advanced Pain &amp; Anesthesia Care</title>
+    <meta name="description" content="GEM Hospital Chennai provides advanced anesthesia and pain management services focused on patient safety, surgical comfort, and effective relief from pain.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Anesthesia And Pain Clinic Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/anesthesia-and-pain-clinic.php">
+    <meta property="og:title" content="Anesthesia and Pain Clinic | GEM Hospital Chennai">
+    <meta property="og:description" content="Advanced anesthesia and pain management services focused on patient safety, surgical comfort, and effective relief from pain.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Anesthesia%20And%20Pain%20Clinic.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Anesthesia And Pain Clinic Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/anesthesia-and-pain-clinic.php">
+    <meta property="twitter:title" content="Anesthesia and Pain Clinic | GEM Hospital Chennai">
+    <meta property="twitter:description" content="Advanced anesthesia and pain management services focused on patient safety, surgical comfort, and effective relief from pain.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Anesthesia%20And%20Pain%20Clinic.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,24 +717,24 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Anesthesia And Pain Clinic at GEM Hospital">
+                            <img src="assets/images/service/Anesthesia%20And%20Pain%20Clinic.jpg" alt="Anesthesia And Pain Clinic at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Comprehensive Anesthesia &amp; Pain Management</h2>
+                        <h2 class="title">Anesthesia and Pain Clinic</h2>
                         <p class="disc">
-                            The Department of Anesthesia and Pain Clinic at GEM Hospital plays a critical role in supporting both surgical and non-surgical specialties. Our expert team evaluates each patient as a whole, optimizing their condition before any planned procedure to ensure maximum safety and comfort.
+                            GEM Hospital provides advanced anesthesia and pain management services focused on patient safety, surgical comfort and effective relief from acute and chronic pain conditions.
                         </p>
                         <p class="disc">
-                            Equipped with high-end technology including USG POCUS, Echocardiography, and advanced monitoring systems, our anesthesiologists provide specialized care for complex laparoscopic and robotic surgeries. We focus on evidence-based practices to deliver superior perioperative outcomes.
+                            Our experienced specialists use modern anesthesia techniques and evidence-based pain management approaches to ensure personalized care and improved patient recovery outcomes.
                         </p>
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
                             <i class="fa-solid fa-hand-holding-heart"></i>
                             <div>
-                                <strong>Precision Pain Management</strong>
-                                <p>Our specialized pain clinic offers advanced, image-guided interventions for chronic and cancer-related pain, helping patients regain their quality of life through minimally invasive techniques.</p>
+                                <strong>Precision-Based Pain Management</strong>
+                                <p>GEM Hospital follows advanced anesthesia protocols and modern pain management techniques to ensure patient comfort, safety and faster recovery.</p>
                             </div>
                         </div>
 
@@ -744,15 +744,15 @@
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-user-nurse"></i></span>
-                                        <h5>Anesthesia Services</h5>
+                                        <h5>Advanced Anesthesia Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Pre-operative Optimization</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Robotic Surgery Anesthesia</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Non-OR Anesthesia (NORA)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Obstetrics &amp; Labor Analgesia</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pediatric Anesthesia</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Post-Anesthesia Care (PACU)</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>General Anesthesia Services</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Regional &amp; Spinal Anesthesia</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Sedation &amp; Critical Care Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Perioperative Patient Monitoring</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Risk Surgical Anesthesia</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Postoperative Recovery Management</li>
                                     </ul>
                                 </div>
                             </div>
@@ -760,59 +760,59 @@
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-bolt"></i></span>
-                                        <h5>Pain Clinic Expertise</h5>
+                                        <h5>Advanced Pain Management Care</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Chronic Pancreatitis Pain</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Chronic Pain Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Back &amp; Neck Pain Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Joint &amp; Nerve Pain Therapy</li>
                                         <li><i class="fa-solid fa-circle-check"></i>Cancer Pain Management</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Spine &amp; Disc Pain (Sciatica)</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Sports &amp; Musculoskeletal Pain</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Neuropathic Pain &amp; Neuralgias</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Post-Surgical Pain Syndromes</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Pain Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Personalized Rehabilitation Support</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">Pain Intervention Modalities</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-bullseye"></i></div>
-                                <p>Selective Nerve Root Blocks</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Radiofrequency Ablation</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-syringe"></i></div>
-                                <p>Epidural &amp; Plexus Blocks</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
                         <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Anesthesia Standard</h3>
+                        <h3 class="title pt-5">GEM Advantage in Anesthesia &amp; Pain Care</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Enhanced Recovery After Surgery (ERAS)</strong>
-                                    <p>Implementation of ERAS protocols to ensure faster mobilization and reduced hospital stay for surgical patients.</p>
+                                    <strong>Expert Pain &amp; Anesthesia Team</strong>
+                                    <p>Experienced specialists delivering safe anesthesia care and advanced pain management solutions for improved patient comfort.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Pinhole Pain Relief</strong>
-                                    <p>Advanced image-guided (USG/Fluoroscopy) interventions for chronic pain that avoid major surgery.</p>
+                                    <strong>Advanced Treatment Approach</strong>
+                                    <p>Modern monitoring systems and minimally invasive pain procedures ensure precise treatment and enhanced recovery outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Comprehensive Support</strong>
-                                    <p>24/7 coverage by senior consultants for all emergency surgical and intensive care requirements.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted anesthesia and pain management practices for patient safety and quality care.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our anesthesia and pain management specialists for safe, advanced and personalized care solutions.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Pain &amp; Anesthesia Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Anesthesia Techniques</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Pain Management</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Expert Critical Care Support</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Personalized Treatment Planning</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Patient Safety Focused Care</li>
                         </ul>
                     </div>
 

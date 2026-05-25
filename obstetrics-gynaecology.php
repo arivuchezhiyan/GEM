@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/fav.png">
-    <title>Obstetrics And Gynaecology | GEM Hospital Chennai - Esophago-Gastric Excellence</title>
-    <meta name="description" content="GEM Hospital Chennai is one of India's most advanced centers for Upper GI diseases, specializing in laparoscopic and robotic surgery for esophageal and stomach cancers.">
+    <title>Obstetrics &amp; Gynaecology | GEM Hospital Chennai - Women's Health &amp; Maternity</title>
+    <meta name="description" content="GEM Hospital provides comprehensive obstetrics and gynaecology care with advanced treatments focused on women’s health, pregnancy care, and minimally invasive procedures.">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="og:title" content="Obstetrics And Gynaecology Excellence | GEM Hospital Chennai">
-    <meta property="og:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:url" content="https://gemhospital.net/chennai/obstetrics-gynaecology.php">
+    <meta property="og:title" content="Obstetrics &amp; Gynaecology | GEM Hospital Chennai">
+    <meta property="og:description" content="GEM Hospital provides comprehensive obstetrics and gynaecology care with advanced treatments focused on women’s health, pregnancy care, and minimally invasive procedures.">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Obstetrics%20And%20Gynaecology.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://gemhospital.net/chennai/upper-gi-surgery.php">
-    <meta property="twitter:title" content="Obstetrics And Gynaecology Excellence | GEM Hospital Chennai">
-    <meta property="twitter:description" content="World-class care for Esophago-Gastric diseases. Pioneering Thoraco-Laparoscopic Esophagectomy techniques now used globally.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:url" content="https://gemhospital.net/chennai/obstetrics-gynaecology.php">
+    <meta property="twitter:title" content="Obstetrics &amp; Gynaecology | GEM Hospital Chennai">
+    <meta property="twitter:description" content="GEM Hospital provides comprehensive obstetrics and gynaecology care with advanced treatments focused on women’s health, pregnancy care, and minimally invasive procedures.">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Obstetrics%20And%20Gynaecology.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -717,24 +717,24 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Obstetrics And Gynaecology at GEM Hospital">
+                            <img src="assets/images/service/Obstetrics%20And%20Gynaecology.jpg" alt="Obstetrics And Gynaecology at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
-                        <h2 class="title">Obstetrics &amp; Endogynecology Excellence</h2>
+                        <h2 class="title">Obstetrics and Gynaecology</h2>
                         <p class="disc">
-                            Gem Eve-Care emphasizes efficient and personalized gynecological care for women of all ages. We are one of the leading centers in the country to perform the full range of laparoscopic and robotic gynecological procedures, ensuring minimal invasiveness and faster recovery for our patients.
+                            GEM Hospital provides comprehensive obstetrics and gynaecology care with advanced treatments focused on women’s health, pregnancy care, fertility support and minimally invasive procedures.
                         </p>
                         <p class="disc">
-                            Our specialized pelvic surgery team handles everything from basic screenings to complex surgeries for malignancy and severe endometriosis. We are equipped with cutting-edge laparoscopic instruments and robotic technology to address gynecological concerns with unmatched precision.
+                            Our experienced specialists offer personalized care for every stage of womanhood using modern technology, advanced diagnostics and internationally accepted clinical practices.
                         </p>
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
                             <i class="fa-solid fa-venus"></i>
                             <div>
-                                <strong>Minimally Invasive Gynaecology</strong>
-                                <p>We specialize in 100% ovarian preservation for torsion cases and offer advanced robotic hysterectomies and myomectomies for complex uterine conditions.</p>
+                                <strong>Precision-Based Women’s Healthcare</strong>
+                                <p>GEM Hospital follows advanced clinical protocols and modern treatment approaches to ensure safe, effective and compassionate care for women.</p>
                             </div>
                         </div>
 
@@ -744,15 +744,15 @@
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-baby"></i></span>
-                                        <h5>Conditions We Treat</h5>
+                                        <h5>Advanced Obstetrics Expertise</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Abnormal Uterine Bleeding</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Fibroid Uterus &amp; Polyps</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Endometriosis &amp; Adenomyosis</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Ovarian Cysts &amp; Tumors</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Pelvic Organ Prolapse</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Gynecological Malignancies</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>High-Risk Pregnancy Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Antenatal &amp; Postnatal Care</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Normal &amp; Cesarean Deliveries</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Maternal Health Monitoring</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Pregnancy Complication Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Comprehensive Maternity Support</li>
                                     </ul>
                                 </div>
                             </div>
@@ -760,59 +760,59 @@
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-procedures"></i></span>
-                                        <h5>Advanced Procedures</h5>
+                                        <h5>Advanced Gynaecology Care</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>Total Laparoscopic Hysterectomy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Robotic Myomectomy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Laparoscopic Tubal Recanalization</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Hysteroscopic Septal Resection</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Rectovaginal Fistula Repair</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Uro-gynaecology (TVT-O/Slings)</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Gynaecology Procedures</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Fibroid &amp; Ovarian Cyst Treatment</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Menstrual Disorder Management</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Fertility Evaluation &amp; Support</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Menopause Care Solutions</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Diagnostic Procedures</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Grid -->
-                        <h3 class="title pt-5">Precision Gynae-Diagnostics</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
-                                <p>Office Hysteroscopy</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                <p>Specialist Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
-                                <p>Colposcopy &amp; Biopsy</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
+                                <p>Advanced Diagnostic Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-dna"></i></div>
-                                <p>Cancer Screening (Pap/HPV)</p>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
+                                <p>Customized Treatment Planning</p>
                             </div>
                         </div>
 
                         <!-- GEM Advantage -->
-                        <h3 class="title pt-5">The GEM Eve-Care Advantage</h3>
+                        <h3 class="title pt-5">GEM Advantage in Obstetrics &amp; Gynaecology</h3>
                         <div class="ugi-surgery-timeline">
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Organ Preservation</strong>
-                                    <p>We prioritize uterus and ovary-preserving surgeries even in complex cases like large fibroids or ovarian torsion.</p>
+                                    <strong>Expert Women’s Health Team</strong>
+                                    <p>Experienced obstetricians and gynaecologists providing comprehensive care with advanced medical expertise.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Robotic Precision</strong>
-                                    <p>Advanced robotic-assisted surgeries for gynecological cancers and deep-seated endometriosis for superior clinical results.</p>
+                                    <strong>Advanced Treatment Approach</strong>
+                                    <p>Modern diagnostics and minimally invasive procedures ensure safer treatments and improved patient outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Multi-Specialty Coordination</strong>
-                                    <p>Unique collaboration with gastro-surgeons for complex conditions like rectovaginal fistulas and pelvic floor disorders.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted women’s healthcare and maternity care practices.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,9 +828,9 @@
                         <div class="gem-appt-icon-ring">
                             <i class="fa-solid fa-heartbeat"></i>
                         </div>
-                        <h4>Book an Appointment</h4>
-                        <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <h4>Meet Our Experts</h4>
+                        <p>Book an appointment with our experienced obstetrics and gynaecology specialists for advanced and compassionate women’s healthcare.</p>
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -844,14 +844,14 @@
                     <!-- Card 2: Why GEM -->
                     <div class="gem-sidebar-card gem-stats-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-star"></i> Why GEM Hospital?
+                            <i class="fa-solid fa-star"></i> Excellence in Women’s Care
                         </h5>
                         <ul class="gem-feature-list">
-                            <li><i class="fa-solid fa-circle-check"></i> 30+ Years of Excellence</li>
-                            <li><i class="fa-solid fa-circle-check"></i> 1,00,000+ Surgeries Done</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Robotic &amp; Laparoscopic Care</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Internationally Accredited</li>
-                            <li><i class="fa-solid fa-circle-check"></i> World-class ICU &amp; Recovery</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Advanced Maternity Services</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Minimally Invasive Procedures</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Experienced Women’s Health Specialists</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Personalized Pregnancy Care</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Comprehensive Gynaecology Support</li>
                         </ul>
                     </div>
 

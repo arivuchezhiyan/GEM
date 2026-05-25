@@ -15,7 +15,7 @@
     <meta property="og:title" content="Laparoscopic Hernia Surgery | GEM Hospital Chennai">
     <meta property="og:description"
         content="Minimally invasive hernia repair with advanced techniques like Component Separation and Robotic surgery. Shorter recovery and less pain.">
-    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="og:image" content="https://gemhospital.net/chennai/assets/images/service/Hernia.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
@@ -23,7 +23,7 @@
     <meta property="twitter:title" content="Laparoscopic Hernia Surgery | GEM Hospital Chennai">
     <meta property="twitter:description"
         content="Minimally invasive hernia repair with advanced techniques like Component Separation and Robotic surgery. Shorter recovery and less pain.">
-    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/10.webp">
+    <meta property="twitter:image" content="https://gemhospital.net/chennai/assets/images/service/Hernia.jpg">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/fontawesome.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -917,7 +917,7 @@
                 <div class="col-lg-9 order-lg-2 pl--40 pl_md--10 pl_sm--15">
                     <div class="service-details-surgery-main">
                         <div class="thumbnail">
-                            <img src="assets/images/service/10.webp" alt="Hernia Surgery at GEM Hospital">
+                            <img src="assets/images/service/Hernia.jpg" alt="Hernia Surgery at GEM Hospital">
                         </div>
 
                         <!-- OVERVIEW -->
@@ -926,7 +926,7 @@
                             GEM Hospital offers advanced hernia treatment with minimally invasive and laparoscopic techniques designed for faster recovery, reduced pain, and improved patient comfort under expert surgical care.
                         </p>
                         <p class="disc">
-                            Our dedicated hernia specialists provide personalized treatment for inguinal, umbilical, incisional, and complex hernias using modern technology and internationally accepted surgical protocols.
+                            Our dedicated hernia specialists provide personalized treatment for inguinal, umbilical, incisional and complex hernias using modern technology and internationally accepted surgical protocols.
                         </p>
 
                         <!-- Expertise highlight banner -->
@@ -934,9 +934,14 @@
                             <i class="fa-solid fa-shield-halved"></i>
                             <div>
                                 <strong>Meet Our Experts</strong>
-                                <p>Book an appointment with our dedicated hernia care team for safe, precise, and advanced surgical treatment.</p>
+                                <p>Book an appointment with our dedicated hernia care team for safe, precise and advanced surgical treatment.</p>
                             </div>
                         </div>
+
+                        <h3 class="title pt-4">Precision-Based Hernia Treatment</h3>
+                        <p class="disc">
+                            GEM Hospital follows advanced surgical protocols and minimally invasive procedures to ensure improved healing, reduced recurrence risk and better patient outcomes.
+                        </p>
 
                         <!-- Procedures & Tech: 2-col card grid -->
                         <div class="row g-4 mt--10">
@@ -959,39 +964,34 @@
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
                                         <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
-                                        <h5>Advanced Technologies</h5>
+                                        <h5>Modern Surgical Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
-                                        <li><i class="fa-solid fa-circle-check"></i>da Vinci Robotic Surgical System
-                                        </li>
-                                        <li><i class="fa-solid fa-circle-check"></i>4K Ultra-HD Laparoscopy</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>3D Imaging Modules for depth
-                                            perception</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>High-Quality Mesh &amp; Fixation
-                                            Devices</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive 'Keyhole'
-                                            Approaches</li>
-                                        <li><i class="fa-solid fa-circle-check"></i>Reduced Post-operative Pain &amp;
-                                            Fast Recovery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Robotic-Assisted Precision Surgery</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>HD 3D Laparoscopic Systems</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Advanced Imaging Guidance</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Enhanced Surgical Visualization</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Minimally Invasive Repair Techniques</li>
+                                        <li><i class="fa-solid fa-circle-check"></i>Faster Recovery Focused Procedures</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Diagnostic Modalities -->
-                        <h3 class="title pt-5">Comprehensive Care Path</h3>
+                        <h3 class="title pt-5">Personalized Care Journey</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-stethoscope"></i></div>
-                                <p>Expert Clinical Evaluation</p>
+                                <p>Expert Consultation</p>
                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
-                                <p>Dynamic Ultrasound Imaging</p>
+                                <p>Surgical Evaluation</p>
                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
-                                <p>Personalized Surgical Planning</p>
+                                <p>Recovery Planning</p>
                             </div>
                         </div>
 
@@ -1001,25 +1001,22 @@
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">01</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Specialized Department</strong>
-                                    <p>One of the few centers with a dedicated department focused solely on complex
-                                        hernia management.</p>
+                                    <strong>Expert Surgical Team</strong>
+                                    <p>Experienced surgeons with expertise in advanced hernia repair and abdominal wall reconstruction techniques.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item ugi-surgery-item--accent">
                                 <div class="ugi-surgery-num">02</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Robotic Precision</strong>
-                                    <p>Using the da Vinci system for intricate abdominal wall reconstructions that were
-                                        previously only possible through large open incisions.</p>
+                                    <strong>Precision-Based Treatment</strong>
+                                    <p>Modern surgical planning and advanced visualization systems ensure improved accuracy and better patient outcomes.</p>
                                 </div>
                             </div>
                             <div class="ugi-surgery-item">
                                 <div class="ugi-surgery-num">03</div>
                                 <div class="ugi-surgery-text">
-                                    <strong>Low Recurrence Rates</strong>
-                                    <p>Our standardized protocols and technical expertise ensure results that rival the
-                                        world's best hernia centers.</p>
+                                    <strong>International Care Standards</strong>
+                                    <p>Treatment protocols aligned with globally accepted surgical practices for enhanced safety and recovery.</p>
                                 </div>
                             </div>
                         </div>
@@ -1037,7 +1034,7 @@
                         </div>
                         <h4>Book an Appointment</h4>
                         <p>Get expert care from our specialist surgeons. Quick, easy, and hassle-free.</p>
-                        <a href="appoinment.php" class="gem-sidebar-btn">
+                        <a href="https://gemhospitals.com/appointment/book-appointment" class="gem-sidebar-btn">
                             <i class="fa-solid fa-calendar-plus"></i> Schedule Now
                         </a>
                         <div class="gem-appt-divider"></div>
@@ -1065,40 +1062,32 @@
                     <!-- Card 4: Surgeries Performed -->
                     <div class="gem-sidebar-card gem-surgery-card">
                         <h5 class="gem-stats-title">
-                            <i class="fa-solid fa-scalpel"></i> Surgeries Performed
+                            <i class="fa-solid fa-scalpel"></i> Advanced Hernia Expertise
                         </h5>
                         <div class="gem-surgery-list">
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">01</span>
-                                <span class="gsli-text">Laparoscopic Inguinal Hernia Repair</span>
+                                <span class="gsli-text">Complex Abdominal Wall Reconstruction</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">02</span>
-                                <span class="gsli-text">Laparoscopic Ventral Hernia Repair</span>
+                                <span class="gsli-text">Minimally Invasive Hernia Procedures</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">03</span>
-                                <span class="gsli-text">Laparoscopic Incisional Hernia Repair</span>
+                                <span class="gsli-text">Robotic-Assisted Hernia Surgery</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">04</span>
-                                <span class="gsli-text">Laparoscopic Umbilical Hernia Repair</span>
+                                <span class="gsli-text">Recurrent Hernia Treatment</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">05</span>
-                                <span class="gsli-text">Robotic Hernia Surgery</span>
+                                <span class="gsli-text">Large Ventral Hernia Repair</span>
                             </div>
                             <div class="gem-surgery-list-item">
                                 <span class="gsli-num">06</span>
-                                <span class="gsli-text">Anterior Component Separation</span>
-                            </div>
-                            <div class="gem-surgery-list-item gem-surgery-list-item--robotic">
-                                <span class="gsli-num">07</span>
-                                <span class="gsli-text">Posterior Component Separation</span>
-                            </div>
-                            <div class="gem-surgery-list-item gem-surgery-list-item--robotic">
-                                <span class="gsli-num">08</span>
-                                <span class="gsli-text">Concomitant Hernia Repair with Bariatric Surgery</span>
+                                <span class="gsli-text">Specialized Mesh Repair Techniques</span>
                             </div>
                         </div>
                     </div>
