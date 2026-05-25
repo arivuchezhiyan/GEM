@@ -958,7 +958,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-microscope"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
                                         <h5>Advanced Technologies</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -990,7 +990,7 @@
                                 <p>Dynamic Ultrasound Imaging</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-clipboard-list"></i></div>
                                 <p>Personalized Surgical Planning</p>
                             </div>
                         </div>

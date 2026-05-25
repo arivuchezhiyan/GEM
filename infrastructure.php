@@ -214,7 +214,7 @@
                 <!-- Endoscopic Suite -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="infra-grid-card">
-                        <div class="icon-box"><i class="fa-solid fa-microscope"></i></div>
+                        <div class="icon-box"><i class="fa-solid fa-video"></i></div>
                         <h4 class="title">Endoscopic Suite</h4>
                         <p class="disc">World-class suite with 12+ endoscopes, including Spyglass Cholangioscopy and laser lithotripter, performing complex therapeutic procedures like POEM and ERCP.</p>
                     </div>
@@ -230,7 +230,7 @@
                 <!-- Dialysis -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                     <div class="infra-grid-card">
-                        <div class="icon-box"><i class="fa-solid fa-kidney"></i></div>
+                        <div class="icon-box"><i class="fa-solid fa-droplet"></i></div>
                         <h4 class="title">Dialysis Unit</h4>
                         <p class="disc">Hygienic and spacious dialysis center with super-specialty standards. Equipped with modern dialysis machines ensuring comfort and safety for renal patients.</p>
                     </div>

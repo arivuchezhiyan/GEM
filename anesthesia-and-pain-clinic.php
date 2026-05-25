@@ -782,11 +782,11 @@
                                 <p>Selective Nerve Root Blocks</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-tower-broadcast"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Radiofrequency Ablation</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-droplet"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-syringe"></i></div>
                                 <p>Epidural &amp; Plexus Blocks</p>
                             </div>
                         </div>

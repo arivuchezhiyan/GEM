@@ -731,7 +731,7 @@
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-liver"></i>
+                            <i class="fa-solid fa-hand-holding-medical"></i>
                             <div>
                                 <strong>Comprehensive Liver Management</strong>
                                 <p>From early-stage fatty liver screening to complex life-saving plasma exchange therapy for liver failure, we cover the full spectrum of liver health.</p>
@@ -759,7 +759,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-microscope"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-kit-medical"></i></span>
                                         <h5>Advanced Interventions</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -782,7 +782,7 @@
                                 <p>Fibroscan (Liver Stiffness)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-circle-nodes"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass-plus"></i></div>
                                 <p>Spyglass Cholangioscopy</p>
                             </div>
                             <div class="ugi-diag-card">

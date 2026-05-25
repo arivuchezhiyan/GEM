@@ -731,7 +731,7 @@
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-microscope"></i>
+                            <i class="fa-solid fa-syringe"></i>
                             <div>
                                 <strong>Advanced Biological Therapies</strong>
                                 <p>We offer the latest biological treatments, including Infliximab, Vedolizumab, and other modern biologicals for refractory IBD cases.</p>
@@ -778,7 +778,7 @@
                         <h3 class="title pt-5">Advanced IBD Diagnostics</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-circle-dot"></i></div>
                                 <p>Double Balloon Enteroscopy</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -786,7 +786,7 @@
                                 <p>Capsule Endoscopy</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-circle-nodes"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-x-ray"></i></div>
                                 <p>CT/MR Enterography</p>
                             </div>
                         </div>

@@ -558,10 +558,28 @@
             color: #1a4f32;
             transition: color 0.3s;
         }
+
+        .ugi-diag-icon img {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+            filter: brightness(0) invert(22%) sepia(100%) saturate(455%) hue-rotate(110deg) brightness(35%) contrast(95%);
+            transition: filter 0.3s ease;
+        }
+
+        .ugi-diag-icon img.robotic-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255,255,255,0.15);
         }
         .ugi-diag-card:hover .ugi-diag-icon i { color: #fff; }
+        .ugi-diag-card:hover .ugi-diag-icon img {
+            filter: brightness(0) invert(1);
+        }
         .ugi-diag-card p {
             margin: 0;
             font-size: 15px;
@@ -731,7 +749,7 @@
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-microscope"></i>
+                            <i class="fa-solid fa-laptop-medical"></i>
                             <div>
                                 <strong>Clinical Innovations</strong>
                                 <p>GEM Hospital is a global leader in Robotic Kidney Implantation and ABO Incompatible (mismatched blood group) transplants, pushing the boundaries of what is possible in transplant surgery.</p>
@@ -778,7 +796,7 @@
                         <h3 class="title pt-5">Advanced Transplant Infrastructure</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-robot"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Da Vinci Robotic System"></div>
                                 <p>Da Vinci Robotic System</p>
                             </div>
                             <div class="ugi-diag-card">

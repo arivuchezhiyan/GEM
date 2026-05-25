@@ -731,7 +731,7 @@
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-microscope"></i>
+                            <i class="fa-solid fa-bullseye"></i>
                             <div>
                                 <strong>Minimally Invasive Excellence</strong>
                                 <p>We utilize state-of-the-art 100-watt Holmium lasers, flexible ureteroscopes, and robotic systems to provide scarless and rapid-recovery solutions for urological conditions.</p>

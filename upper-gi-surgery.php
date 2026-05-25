@@ -982,7 +982,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-stethoscope"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-award"></i></span>
                                         <h5>Why GEM Hospital?</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -1040,7 +1040,7 @@
                                 <p>24-hour pH Study</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-microscope"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Endoscopic Ultrasound (EUS)</p>
                             </div>
                         </div>
@@ -1111,7 +1111,7 @@
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-biohazard"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -1127,7 +1127,7 @@
                                 <p>24-Hour pH Study</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-satellite-dish"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Endoscopic Ultrasound (EUS)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -1135,7 +1135,7 @@
                                 <p>Barium/Gastrograffin Swallow &amp; Follow-through Studies</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-stomach"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Ultrasound of Abdomen (USG)</p>
                             </div>
                             <div class="ugi-diag-card">

@@ -596,6 +596,12 @@
             transform: scale(3.5);
         }
 
+        .ugi-diag-icon img.robotic-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255,255,255,0.15);
         }
@@ -774,7 +780,7 @@
 
                         <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-microscope"></i>
+                            <i class="fa-solid fa-laptop-medical"></i>
                             <div>
                                 <strong>Cutting-Edge Technology</strong>
                                 <p>We are the only center to offer both Laparoscopic and Robotic surgery for complex gallbladder, bile duct, liver, and pancreatic cancers, utilizing advanced 3D, 4K, and ICG-guided imaging.</p>
@@ -787,7 +793,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-liver"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-kit-medical"></i></span>
                                         <h5>Liver &amp; Biliary</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -822,7 +828,7 @@
                         <h3 class="title pt-5">Advanced Facilities</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-robot"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Robotic Surgery Platform"></div>
                                 <p>Robotic Surgery Platform</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -834,7 +840,7 @@
                                 <p>Intraoperative Ultrasound</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-camera"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-magnifying-glass-plus"></i></div>
                                 <p>Spyglass Cholangioscopy</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -903,7 +909,7 @@
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-biohazard"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -919,7 +925,7 @@
                                 <p>24-Hour pH Study</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-satellite-dish"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Endoscopic Ultrasound (EUS)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -927,7 +933,7 @@
                                 <p>Barium/Gastrograffin Swallow &amp; Follow-through Studies</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-stomach"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Ultrasound of Abdomen (USG)</p>
                             </div>
                             <div class="ugi-diag-card">

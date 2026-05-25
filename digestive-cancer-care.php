@@ -801,10 +801,10 @@
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
-                                    <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-microscope"></i></span>
-                                        <h5>Advanced Modalities</h5>
-                                    </div>
+                                     <div class="ugi-info-card-head">
+                                         <span class="ugi-card-icon"><i class="fa-solid fa-laptop-medical"></i></span>
+                                         <h5>Advanced Modalities</h5>
+                                     </div>
                                     <ul class="ugi-card-list">
                                         <li><i class="fa-solid fa-circle-check"></i>Robotic &amp; Laparoscopic Resections</li>
                                         <li><i class="fa-solid fa-circle-check"></i>ICG-Guided Precision Surgery</li>
@@ -829,7 +829,7 @@
                                 <p>Endoscopic Ultrasound (EUS)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-circle-nodes"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-x-ray"></i></div>
                                 <p>Cancer Specific CT Protocols</p>
                             </div>
                         </div>

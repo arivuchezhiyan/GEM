@@ -778,7 +778,7 @@
                         <h3 class="title pt-5">Specialized Metabolic Interventions</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-syringe"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-diagram-project"></i></div>
                                 <p>Diabetes Surgery (Ileal Interposition)</p>
                             </div>
                             <div class="ugi-diag-card">

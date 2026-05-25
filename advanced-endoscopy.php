@@ -877,11 +877,11 @@
                         <h3 class="title pt-5">Key Endoscopic Procedures</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-camera"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
                                 <p>Upper GI &amp; Colonoscopy</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-microscope"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-diagram-project"></i></div>
                                 <p>ERCP (Bile/Pancreas)</p>
                             </div>
                             <div class="ugi-diag-card">

@@ -778,7 +778,7 @@
                         <h3 class="title pt-5">Precision Gynae-Diagnostics</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-microscope"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-video"></i></div>
                                 <p>Office Hysteroscopy</p>
                             </div>
                             <div class="ugi-diag-card">

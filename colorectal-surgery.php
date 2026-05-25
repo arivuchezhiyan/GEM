@@ -593,6 +593,17 @@
             transform: scale(3.5);
         }
 
+        .ugi-diag-icon img.anal-icon {
+            width: 32px;
+            height: 32px;
+        }
+
+        .ugi-diag-icon img.robotic-icon {
+            width: 20px;
+            height: 20px;
+            transform: scale(3.5);
+        }
+
         .ugi-diag-card:hover .ugi-diag-icon {
             background: rgba(255,255,255,0.15);
         }
@@ -769,7 +780,7 @@
 
                         <!-- Expertise highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-bolt-lightning"></i>
+                            <i class="fa-solid fa-bolt"></i>
                             <div>
                                 <strong>Minimally Invasive Excellence</strong>
                                 <p>We utilize cutting-edge Robotic systems and 4K Laparoscopy for maximum precision, significantly reducing pain, scarring, and recovery time for our patients.</p>
@@ -817,23 +828,23 @@
                         <h3 class="title pt-5">Surgical Modalities</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-robot"></i></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Robotic Colorectal Surgery"></div>
                                 <p>Robotic Colorectal Surgery</p>
                             </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-wand-sparkles"></i></div>
-                                <p>Advanced Laser Surgery</p>
-                            </div>
-                            <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-microscope"></i></div>
-                                <p>TAMIS / TEM Procedures</p>
-                            </div>
+                             <div class="ugi-diag-card">
+                                 <div class="ugi-diag-icon"><i class="fa-solid fa-bolt"></i></div>
+                                 <p>Advanced Laser Surgery</p>
+                              </div>
+                             <div class="ugi-diag-card">
+                                 <div class="ugi-diag-icon"><i class="fa-solid fa-circle-dot"></i></div>
+                                 <p>TAMIS / TEM Procedures</p>
+                             </div>
                             <div class="ugi-diag-card">
                                 <div class="ugi-diag-icon"><img src="assets/images/service/icon/55.png" class="laparoscopic-icon" alt="4K Laparoscopic Resection"></div>
                                 <p>4K Laparoscopic Resection</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/54.png" class="large-icon" alt="Anal Manometry Lab"></div>
+                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/51.png" class="anal-icon" alt="Anal Manometry Lab"></div>
                                 <p>Anal Manometry Lab</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -891,7 +902,7 @@
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><img src="assets/images/service/icon/51.png" alt="Rapid Urease Test"></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -907,7 +918,7 @@
                                 <p>24-Hour pH Study</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-satellite-dish"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Endoscopic Ultrasound (EUS)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -915,7 +926,7 @@
                                 <p>Barium/Gastrograffin Swallow &amp; Follow-through Studies</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-stomach"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Ultrasound of Abdomen (USG)</p>
                             </div>
                             <div class="ugi-diag-card">

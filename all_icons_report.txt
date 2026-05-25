@@ -1,0 +1,525 @@
+========================================
+FILE: advanced-endoscopy.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Dr. R Vinoth Kumar
+                                D.M
+Icon: fa-solid fa-trophy | Title: Pioneering Excellence
+Icon: fa-solid fa-circle-check | Title: Feeding/PEG Tube Insertion
+Icon: fa-solid fa-hand-holding-heart" style="color: #e8a000; | Title: Compassionate Care
+
+--- INFO CARDS ---
+Icon: fa-solid fa-notes-medical | Title: Disease &amp; Treatment
+Icon: fa-solid fa-hospital | Title: GEM’s Advanced Facilities
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-video"></i> | Title: Upper GI &amp; Colonoscopy
+Icon: <i class="fa-solid fa-diagram-project"></i> | Title: ERCP (Bile/Pancreas)
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-bolt"></i> | Title: POEM Procedure
+Icon: <i class="fa-solid fa-magnifying-glass-plus"></i> | Title: Spyglass Cholangioscopy
+Icon: <i class="fa-solid fa-circle-dot"></i> | Title: Double-Balloon Enteroscopy
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-award | Title: Why GEM Hospital?
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: anesthesia-and-pain-clinic.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Precision Pain Management
+
+--- INFO CARDS ---
+Icon: fa-solid fa-user-nurse | Title: Anesthesia Services
+Icon: fa-solid fa-bolt | Title: Pain Clinic Expertise
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-bullseye"></i> | Title: Selective Nerve Root Blocks
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Radiofrequency Ablation
+Icon: <i class="fa-solid fa-syringe"></i> | Title: Epidural &amp; Plexus Blocks
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-syringe | Title: Clinic Services
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: cardiology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Dr. V.K.G. Rajasekar
+Icon: fa-solid fa-heart-pulse | Title: 24/7 Cardiac Emergency Care
+
+--- INFO CARDS ---
+Icon: fa-solid fa-stretcher | Title: Emergency Services
+Icon: fa-solid fa-hand-holding-medical | Title: Elective Interventions
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: 2D Echo &amp; Color Doppler
+Icon: <i class="fa-solid fa-stopwatch"></i> | Title: Tread Mill Test (TMT)
+Icon: <i class="fa-solid fa-heart-circle-check"></i> | Title: 24-Hr Holter Monitoring
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-heart-pulse | Title: Cardiac Procedures
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: colorectal-surgery.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Enhanced Recovery After Surgery (ERAS)
+Icon: fa-solid fa-bolt-lightning | Title: Minimally Invasive Excellence
+
+--- INFO CARDS ---
+Icon: fa-solid fa-ribbon | Title: Cancer &amp; IBD
+Icon: fa-solid fa-stethoscope | Title: Anorectal Disorders
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Robotic Colorectal Surgery"> | Title: Robotic Colorectal Surgery
+Icon: <i class="fa-solid fa-bolt-lightning"></i> | Title: Advanced Laser Surgery
+Icon: <i class="fa-solid fa-circle-dot"></i> | Title: TAMIS / TEM Procedures
+Icon: <img src="assets/images/service/icon/55.png" class="laparoscopic-icon" alt="4K Laparoscopic Resection"> | Title: 4K Laparoscopic Resection
+Icon: <img src="assets/images/service/icon/51.png" class="anal-icon" alt="Anal Manometry Lab"> | Title: Anal Manometry Lab
+Icon: <i class="fa-solid fa-video"></i> | Title: Video Proctoscopy
+Icon: <img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"> | Title: Upper G.I Endoscopy (OGD)
+Icon: <i class="fa-solid fa-vial"></i> | Title: Rapid Urease Test for H.Pylori
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI) – Early Cancer Detection
+Icon: <img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"> | Title: High Resolution Esophageal Manometry with Impedance
+Icon: <i class="fa-solid fa-clock"></i> | Title: 24-Hour pH Study
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-flask"></i> | Title: Barium/Gastrograffin Swallow &amp; Follow-through Studies
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Ultrasound of Abdomen (USG)
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Multidetector CT Scan – Cancer Specific Protocols
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: diabetes-general-medicine.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: 'CANCER'
+Icon: fa-solid fa-trophy | Title: World's First
+
+--- INFO CARDS ---
+Icon: fa-solid fa-stethoscope | Title: Diabetes & General Medicine may treat:
+Icon: fa-solid fa-shield-check | Title: Benefits at GEM Hospital:
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"> | Title: Upper G.I Endoscopy (OGD)
+Icon: <i class="fa-solid fa-vial"></i> | Title: Rapid Urease Test for H.Pylori
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI) – Early Cancer Detection
+Icon: <img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"> | Title: High Resolution Esophageal Manometry with Impedance
+Icon: <i class="fa-solid fa-clock"></i> | Title: 24-Hour pH Study
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-flask"></i> | Title: Barium/Gastrograffin Swallow &amp; Follow-through Studies
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Ultrasound of Abdomen (USG)
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Multidetector CT Scan – Cancer Specific Protocols
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: digestive-cancer-care.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Global Leader in Cancer Surgery
+
+--- INFO CARDS ---
+Icon: fa-solid fa-disease | Title: Cancers We Treat
+Icon: fa-solid fa-laptop-medical | Title: Advanced Modalities
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI)
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Cancer Specific CT Protocols
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: emergency-medicine.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Dr. V. Vanmathy
+Icon: fa-solid fa-truck-medical | Title: Rapid Response System
+
+--- INFO CARDS ---
+Icon: fa-solid fa-house-medical-circle-exclamation | Title: Emergency Expertise
+Icon: fa-solid fa-hospital-user | Title: ER Facilities
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-ambulance"></i> | Title: Pre-hospital Ambulance
+Icon: <i class="fa-solid fa-flask-vial"></i> | Title: 24/7 Laboratory
+Icon: <i class="fa-solid fa-bed-pulse"></i> | Title: ICU &amp; Critical Care
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-clock-rotate-left | Title: 24/7 Services
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: gem-bariatric-surgery.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Centre of Excellence (COE)
+
+--- INFO CARDS ---
+Icon: fa-solid fa-weight-scale | Title: Weight Loss Procedures
+Icon: fa-solid fa-heart-pulse | Title: Metabolic Resolution
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-diagram-project"></i> | Title: Diabetes Surgery (Ileal Interposition)
+Icon: <i class="fa-solid fa-arrows-split-up-and-left"></i> | Title: Duodenojejunal Bypass
+Icon: <i class="fa-solid fa-person-walking"></i> | Title: Metabolic Syndrome Care
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: general-surgery.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Compassionate Precision
+
+--- INFO CARDS ---
+Icon: fa-solid fa-scalpel-line-dotted | Title: Key Surgical Services
+Icon: fa-solid fa-kit-medical | Title: Advanced Care Modalities
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-stethoscope"></i> | Title: Thorough Diagnosis
+Icon: <i class="fa-solid fa-user-doctor"></i> | Title: Personalized Planning
+Icon: <i class="fa-solid fa-laptop-medical"></i> | Title: Latest Technology
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-briefcase-medical | Title: Common Procedures
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: hepatology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Comprehensive Liver Management
+
+--- INFO CARDS ---
+Icon: fa-solid fa-virus | Title: Conditions We Treat
+Icon: fa-solid fa-kit-medical | Title: Advanced Interventions
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Fibroscan (Liver Stiffness)
+Icon: <i class="fa-solid fa-magnifying-glass-plus"></i> | Title: Spyglass Cholangioscopy
+Icon: <i class="fa-solid fa-flask"></i> | Title: Advanced Molecular Testing
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-hand-holding-medical | Title: Liver Interventions
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: hernia.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Meet Our Experts
+
+--- INFO CARDS ---
+Icon: fa-solid fa-kit-medical | Title: Excellence in Hernia Care
+Icon: fa-solid fa-laptop-medical | Title: Advanced Technologies
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-stethoscope"></i> | Title: Expert Clinical Evaluation
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Dynamic Ultrasound Imaging
+Icon: <i class="fa-solid fa-clipboard-list"></i> | Title: Personalized Surgical Planning
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: hpb-surgery.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: world's first totally Laparoscopic Whipple’s procedure
+Icon: fa-solid fa-laptop-medical | Title: Cutting-Edge Technology
+
+--- INFO CARDS ---
+Icon: fa-solid fa-kit-medical | Title: Liver &amp; Biliary
+Icon: fa-solid fa-bacteria | Title: Pancreas
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Robotic Surgery Platform"> | Title: Robotic Surgery Platform
+Icon: <i class="fa-solid fa-wand-magic-sparkles"></i> | Title: ICG Guided Resections
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Intraoperative Ultrasound
+Icon: <i class="fa-solid fa-magnifying-glass-plus"></i> | Title: Spyglass Cholangioscopy
+Icon: <i class="fa-solid fa-bolt"></i> | Title: Radio Frequency Ablation
+Icon: <i class="fa-solid fa-syringe"></i> | Title: TACE &amp; Angio Embolization
+Icon: <img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"> | Title: Upper G.I Endoscopy (OGD)
+Icon: <i class="fa-solid fa-vial"></i> | Title: Rapid Urease Test for H.Pylori
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI) – Early Cancer Detection
+Icon: <img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"> | Title: High Resolution Esophageal Manometry with Impedance
+Icon: <i class="fa-solid fa-clock"></i> | Title: 24-Hour pH Study
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-flask"></i> | Title: Barium/Gastrograffin Swallow &amp; Follow-through Studies
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Ultrasound of Abdomen (USG)
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Multidetector CT Scan – Cancer Specific Protocols
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: ibd-clinic.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Advanced Biological Therapies
+
+--- INFO CARDS ---
+Icon: fa-solid fa-disease | Title: IBD Spectrum
+Icon: fa-solid fa-hospital-user | Title: Our Multi-modal Care
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-circle-dot"></i> | Title: Double Balloon Enteroscopy
+Icon: <i class="fa-solid fa-capsules"></i> | Title: Capsule Endoscopy
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: CT/MR Enterography
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-hand-holding-heart | Title: IBD Care &amp; Surgery
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: interventional-radiology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Dr. V. Aravinda Narasimhan
+Icon: fa-solid fa-bullseye | Title: Minimally Invasive Excellence
+
+--- INFO CARDS ---
+Icon: fa-solid fa-briefcase-medical | Title: Hepatobiliary Interventions
+Icon: fa-solid fa-kit-medical | Title: General &amp; Advanced IR
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Multi-Detector CT
+Icon: <i class="fa-solid fa-magnet"></i> | Title: High-Field MRI
+Icon: <i class="fa-solid fa-atom"></i> | Title: PET-CT Imaging
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-radiation | Title: IR Procedures
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: master-health-checkup.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Preventive Excellence
+
+--- INFO CARDS ---
+Icon: fa-solid fa-clipboard-list | Title: Why Preventive Care?
+Icon: fa-solid fa-stethoscope | Title: Checkup Components
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-notes-medical"></i> | Title: History Taking
+Icon: <i class="fa-solid fa-user-check"></i> | Title: Physical Exam
+Icon: <i class="fa-solid fa-vial"></i> | Title: Lab Evaluation
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-hand-holding-heart | Title: Checkup Packages
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: medical-gastroenterology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: 24/7 Emergency Care
+
+--- INFO CARDS ---
+Icon: fa-solid fa-stethoscope | Title: Conditions We Manage
+Icon: fa-solid fa-kit-medical | Title: Advanced Sub-specialties
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-video"></i> | Title: HD Endoscopy &amp; Colonoscopy
+Icon: <i class="fa-solid fa-diagram-project"></i> | Title: ERCP &amp; Spyglass Cholangioscopy
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-kit-medical | Title: Procedures Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: medical-oncology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: 'CANCER'
+Icon: fa-solid fa-trophy | Title: World's First
+
+--- INFO CARDS ---
+Icon: fa-solid fa-stethoscope | Title: Medical Oncology may treat:
+Icon: fa-solid fa-shield-check | Title: Benefits at GEM Hospital:
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"> | Title: Upper G.I Endoscopy (OGD)
+Icon: <i class="fa-solid fa-vial"></i> | Title: Rapid Urease Test for H.Pylori
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI) – Early Cancer Detection
+Icon: <img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"> | Title: High Resolution Esophageal Manometry with Impedance
+Icon: <i class="fa-solid fa-clock"></i> | Title: 24-Hour pH Study
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-flask"></i> | Title: Barium/Gastrograffin Swallow &amp; Follow-through Studies
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Ultrasound of Abdomen (USG)
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Multidetector CT Scan – Cancer Specific Protocols
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: multi-organ-transplant.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Liver, Kidney, and Pancreas
+Icon: fa-solid fa-laptop-medical | Title: Clinical Innovations
+
+--- INFO CARDS ---
+Icon: fa-solid fa-hospital-user | Title: Liver Transplantation
+Icon: fa-solid fa-kit-medical | Title: Kidney &amp; Pancreas
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/54.png" class="robotic-icon" alt="Da Vinci Robotic System"> | Title: Da Vinci Robotic System
+Icon: <i class="fa-solid fa-bed-pulse"></i> | Title: Dedicated Transplant ICU
+Icon: <i class="fa-solid fa-dna"></i> | Title: Advanced HLA/Crossmatch Lab
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: nephrology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Patient-Centric Dialysis Care
+
+--- INFO CARDS ---
+Icon: fa-solid fa-briefcase-medical | Title: Conditions We Treat
+Icon: fa-solid fa-flask-vial | Title: Specialized Services
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-vial"></i> | Title: Comprehensive Renal Panels
+Icon: <i class="fa-solid fa-magnifying-glass-chart"></i> | Title: Automated Kidney Biopsy
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Renal Doppler Imaging
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-hand-holding-medical | Title: Renal Procedures
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: obstetrics-gynaecology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Minimally Invasive Gynaecology
+
+--- INFO CARDS ---
+Icon: fa-solid fa-baby | Title: Conditions We Treat
+Icon: fa-solid fa-procedures | Title: Advanced Procedures
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-video"></i> | Title: Office Hysteroscopy
+Icon: <i class="fa-solid fa-video"></i> | Title: Colposcopy &amp; Biopsy
+Icon: <i class="fa-solid fa-dna"></i> | Title: Cancer Screening (Pap/HPV)
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-female | Title: Gynae Procedures
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: robotic-surgery.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Pioneering Precision
+
+--- INFO CARDS ---
+Icon: fa-solid fa-crosshairs | Title: Surgical Precision
+Icon: fa-solid fa-user-shield | Title: Patient Recovery
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-dna"></i> | Title: Robotic Cancer Surgery
+Icon: <i class="fa-solid fa-weight-hanging"></i> | Title: Robotic Bariatric Surgery
+Icon: <i class="fa-solid fa-shield-halved"></i> | Title: Robotic Hernia Repair
+Icon: <i class="fa-solid fa-diagram-project"></i> | Title: Robotic HPB Surgery
+Icon: <i class="fa-solid fa-arrows-to-circle"></i> | Title: Robotic Colorectal Surgery
+Icon: <i class="fa-solid fa-hand-holding-medical"></i> | Title: Complex Reconstructions
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: upper-gi-surgery.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Gastrointestinal Surgery Division
+Icon: fa-solid fa-trophy | Title: World's First
+
+--- INFO CARDS ---
+Icon: fa-solid fa-award | Title: Why GEM Hospital?
+Icon: fa-solid fa-shield-check | Title: Upper GI Surgery May Treat:
+
+--- DIAGNOSTIC CARDS ---
+Icon: <img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper GI Endoscopy (OGD)"> | Title: Upper GI Endoscopy (OGD)
+Icon: <i class="fa-solid fa-vial"></i> | Title: H. Pylori Testing (RUT)
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI)
+Icon: <img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"> | Title: HR Esophageal Manometry
+Icon: <i class="fa-solid fa-clock"></i> | Title: 24-hour pH Study
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)"> | Title: Upper G.I Endoscopy (OGD)
+Icon: <i class="fa-solid fa-vial"></i> | Title: Rapid Urease Test for H.Pylori
+Icon: <img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging"> | Title: Narrow Band Imaging (NBI) – Early Cancer Detection
+Icon: <img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry"> | Title: High Resolution Esophageal Manometry with Impedance
+Icon: <i class="fa-solid fa-clock"></i> | Title: 24-Hour pH Study
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Endoscopic Ultrasound (EUS)
+Icon: <i class="fa-solid fa-flask"></i> | Title: Barium/Gastrograffin Swallow &amp; Follow-through Studies
+Icon: <i class="fa-solid fa-wave-square"></i> | Title: Ultrasound of Abdomen (USG)
+Icon: <i class="fa-solid fa-x-ray"></i> | Title: Multidetector CT Scan – Cancer Specific Protocols
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-scalpel | Title: Surgeries Performed
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance
+
+========================================
+FILE: urology.php
+========================================
+--- HIGHLIGHT BANNERS ---
+Icon: fa-solid fa-chevron-right | Title: Minimally Invasive Excellence
+
+--- INFO CARDS ---
+Icon: fa-solid fa-file-medical | Title: Conditions We Treat
+Icon: fa-solid fa-shield-virus | Title: Advanced Modalities
+
+--- DIAGNOSTIC CARDS ---
+Icon: <i class="fa-solid fa-gauge-high"></i> | Title: Advanced Urodynamic Studies
+Icon: <i class="fa-solid fa-eye"></i> | Title: Flexible Cystoscopy
+Icon: <i class="fa-solid fa-dna"></i> | Title: Molecular Marker Testing
+
+--- SIDEBAR SURGERIES HEADINGS ---
+Icon: fa-solid fa-star | Title: Why GEM Hospital?
+Icon: fa-solid fa-user-shield | Title: Urology Procedures
+Icon: fa-solid fa-chart-line | Title: GEM at a Glance

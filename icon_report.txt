@@ -1,0 +1,168 @@
+### advanced-endoscopy.php
+- **Upper GI &amp; Colonoscopy**: `<i class="fa-solid fa-camera"></i>`
+- **ERCP (Bile/Pancreas)**: `<i class="fa-solid fa-microscope"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-wave-square"></i>`
+- **POEM Procedure**: `<i class="fa-solid fa-bolt"></i>`
+- **Spyglass Cholangioscopy**: `<i class="fa-solid fa-magnifying-glass-plus"></i>`
+- **Double-Balloon Enteroscopy**: `<i class="fa-solid fa-circle-dot"></i>`
+
+### anesthesia-and-pain-clinic.php
+- **Selective Nerve Root Blocks**: `<i class="fa-solid fa-bullseye"></i>`
+- **Radiofrequency Ablation**: `<i class="fa-solid fa-tower-broadcast"></i>`
+- **Epidural &amp; Plexus Blocks**: `<i class="fa-solid fa-droplet"></i>`
+
+### cardiology.php
+- **2D Echo &amp; Color Doppler**: `<i class="fa-solid fa-wave-square"></i>`
+- **Tread Mill Test (TMT)**: `<i class="fa-solid fa-stopwatch"></i>`
+- **24-Hr Holter Monitoring**: `<i class="fa-solid fa-heart-circle-check"></i>`
+
+### colorectal-surgery.php
+- **Robotic Colorectal Surgery**: `<i class="fa-solid fa-robot"></i>`
+- **Advanced Laser Surgery**: `<i class="fa-solid fa-wand-sparkles"></i>`
+- **TAMIS / TEM Procedures**: `<i class="fa-solid fa-microscope"></i>`
+- **4K Laparoscopic Resection**: `<img src="assets/images/service/icon/55.png" class="laparoscopic-icon" alt="4K Laparoscopic Resection">`
+- **Anal Manometry Lab**: `<img src="assets/images/service/icon/54.png" class="large-icon" alt="Anal Manometry Lab">`
+- **Video Proctoscopy**: `<i class="fa-solid fa-video"></i>`
+- **Upper G.I Endoscopy (OGD)**: `<img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)">`
+- **Rapid Urease Test for H.Pylori**: `<img src="assets/images/service/icon/51.png" alt="Rapid Urease Test">`
+- **Narrow Band Imaging (NBI) – Early Cancer Detection**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **High Resolution Esophageal Manometry with Impedance**: `<img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry">`
+- **24-Hour pH Study**: `<i class="fa-solid fa-clock"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-satellite-dish"></i>`
+- **Barium/Gastrograffin Swallow &amp; Follow-through Studies**: `<i class="fa-solid fa-flask"></i>`
+- **Ultrasound of Abdomen (USG)**: `<i class="fa-solid fa-stomach"></i>`
+- **Multidetector CT Scan – Cancer Specific Protocols**: `<i class="fa-solid fa-x-ray"></i>`
+
+### diabetes-general-medicine.php
+- **Upper G.I Endoscopy (OGD)**: `<img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)">`
+- **Rapid Urease Test for H.Pylori**: `<i class="fa-solid fa-biohazard"></i>`
+- **Narrow Band Imaging (NBI) – Early Cancer Detection**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **High Resolution Esophageal Manometry with Impedance**: `<img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry">`
+- **24-Hour pH Study**: `<i class="fa-solid fa-clock"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-satellite-dish"></i>`
+- **Barium/Gastrograffin Swallow &amp; Follow-through Studies**: `<i class="fa-solid fa-flask"></i>`
+- **Ultrasound of Abdomen (USG)**: `<i class="fa-solid fa-stomach"></i>`
+- **Multidetector CT Scan – Cancer Specific Protocols**: `<i class="fa-solid fa-x-ray"></i>`
+
+### digestive-cancer-care.php
+- **Narrow Band Imaging (NBI)**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-wave-square"></i>`
+- **Cancer Specific CT Protocols**: `<i class="fa-solid fa-circle-nodes"></i>`
+
+### emergency-medicine.php
+- **Pre-hospital Ambulance**: `<i class="fa-solid fa-ambulance"></i>`
+- **24/7 Laboratory**: `<i class="fa-solid fa-flask-vial"></i>`
+- **ICU &amp; Critical Care**: `<i class="fa-solid fa-bed-pulse"></i>`
+
+### gem-bariatric-surgery.php
+- **Diabetes Surgery (Ileal Interposition)**: `<i class="fa-solid fa-syringe"></i>`
+- **Duodenojejunal Bypass**: `<i class="fa-solid fa-arrows-split-up-and-left"></i>`
+- **Metabolic Syndrome Care**: `<i class="fa-solid fa-person-walking"></i>`
+
+### general-surgery.php
+- **Thorough Diagnosis**: `<i class="fa-solid fa-microscope"></i>`
+- **Personalized Planning**: `<i class="fa-solid fa-user-doctor"></i>`
+- **Latest Technology**: `<i class="fa-solid fa-laptop-medical"></i>`
+
+### hepatology.php
+- **Fibroscan (Liver Stiffness)**: `<i class="fa-solid fa-wave-square"></i>`
+- **Spyglass Cholangioscopy**: `<i class="fa-solid fa-circle-nodes"></i>`
+- **Advanced Molecular Testing**: `<i class="fa-solid fa-flask"></i>`
+
+### hernia.php
+- **Expert Clinical Evaluation**: `<i class="fa-solid fa-stethoscope"></i>`
+- **Dynamic Ultrasound Imaging**: `<i class="fa-solid fa-wave-square"></i>`
+- **Personalized Surgical Planning**: `<i class="fa-solid fa-vial"></i>`
+
+### hpb-surgery.php
+- **Robotic Surgery Platform**: `<i class="fa-solid fa-robot"></i>`
+- **ICG Guided Resections**: `<i class="fa-solid fa-wand-magic-sparkles"></i>`
+- **Intraoperative Ultrasound**: `<i class="fa-solid fa-wave-square"></i>`
+- **Spyglass Cholangioscopy**: `<i class="fa-solid fa-camera"></i>`
+- **Radio Frequency Ablation**: `<i class="fa-solid fa-bolt"></i>`
+- **TACE &amp; Angio Embolization**: `<i class="fa-solid fa-syringe"></i>`
+- **Upper G.I Endoscopy (OGD)**: `<img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)">`
+- **Rapid Urease Test for H.Pylori**: `<i class="fa-solid fa-biohazard"></i>`
+- **Narrow Band Imaging (NBI) – Early Cancer Detection**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **High Resolution Esophageal Manometry with Impedance**: `<img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry">`
+- **24-Hour pH Study**: `<i class="fa-solid fa-clock"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-satellite-dish"></i>`
+- **Barium/Gastrograffin Swallow &amp; Follow-through Studies**: `<i class="fa-solid fa-flask"></i>`
+- **Ultrasound of Abdomen (USG)**: `<i class="fa-solid fa-stomach"></i>`
+- **Multidetector CT Scan – Cancer Specific Protocols**: `<i class="fa-solid fa-x-ray"></i>`
+
+### ibd-clinic.php
+- **Double Balloon Enteroscopy**: `<i class="fa-solid fa-video"></i>`
+- **Capsule Endoscopy**: `<i class="fa-solid fa-capsules"></i>`
+- **CT/MR Enterography**: `<i class="fa-solid fa-circle-nodes"></i>`
+
+### interventional-radiology.php
+- **Multi-Detector CT**: `<i class="fa-solid fa-circle-nodes"></i>`
+- **High-Field MRI**: `<i class="fa-solid fa-magnet"></i>`
+- **PET-CT Imaging**: `<i class="fa-solid fa-atom"></i>`
+
+### master-health-checkup.php
+- **History Taking**: `<i class="fa-solid fa-notes-medical"></i>`
+- **Physical Exam**: `<i class="fa-solid fa-user-check"></i>`
+- **Lab Evaluation**: `<i class="fa-solid fa-vial"></i>`
+
+### medical-gastroenterology.php
+- **HD Endoscopy &amp; Colonoscopy**: `<i class="fa-solid fa-video"></i>`
+- **ERCP &amp; Spyglass Cholangioscopy**: `<i class="fa-solid fa-circle-nodes"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-wave-square"></i>`
+
+### medical-oncology.php
+- **Upper G.I Endoscopy (OGD)**: `<img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)">`
+- **Rapid Urease Test for H.Pylori**: `<i class="fa-solid fa-biohazard"></i>`
+- **Narrow Band Imaging (NBI) – Early Cancer Detection**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **High Resolution Esophageal Manometry with Impedance**: `<img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry">`
+- **24-Hour pH Study**: `<i class="fa-solid fa-clock"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-satellite-dish"></i>`
+- **Barium/Gastrograffin Swallow &amp; Follow-through Studies**: `<i class="fa-solid fa-flask"></i>`
+- **Ultrasound of Abdomen (USG)**: `<i class="fa-solid fa-stomach"></i>`
+- **Multidetector CT Scan – Cancer Specific Protocols**: `<i class="fa-solid fa-x-ray"></i>`
+
+### multi-organ-transplant.php
+- **Da Vinci Robotic System**: `<i class="fa-solid fa-robot"></i>`
+- **Dedicated Transplant ICU**: `<i class="fa-solid fa-bed-pulse"></i>`
+- **Advanced HLA/Crossmatch Lab**: `<i class="fa-solid fa-dna"></i>`
+
+### nephrology.php
+- **Comprehensive Renal Panels**: `<i class="fa-solid fa-vial"></i>`
+- **Automated Kidney Biopsy**: `<i class="fa-solid fa-magnifying-glass-chart"></i>`
+- **Renal Doppler Imaging**: `<i class="fa-solid fa-wave-square"></i>`
+
+### obstetrics-gynaecology.php
+- **Office Hysteroscopy**: `<i class="fa-solid fa-microscope"></i>`
+- **Colposcopy &amp; Biopsy**: `<i class="fa-solid fa-video"></i>`
+- **Cancer Screening (Pap/HPV)**: `<i class="fa-solid fa-dna"></i>`
+
+### robotic-surgery.php
+- **Robotic Cancer Surgery**: `<i class="fa-solid fa-dna"></i>`
+- **Robotic Bariatric Surgery**: `<i class="fa-solid fa-weight-hanging"></i>`
+- **Robotic Hernia Repair**: `<i class="fa-solid fa-stomach"></i>`
+- **Robotic HPB Surgery**: `<i class="fa-solid fa-liver"></i>`
+- **Robotic Colorectal Surgery**: `<i class="fa-solid fa-arrows-to-circle"></i>`
+- **Complex Reconstructions**: `<i class="fa-solid fa-hand-dots"></i>`
+
+### upper-gi-surgery.php
+- **Upper GI Endoscopy (OGD)**: `<img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper GI Endoscopy (OGD)">`
+- **H. Pylori Testing (RUT)**: `<i class="fa-solid fa-vial"></i>`
+- **Narrow Band Imaging (NBI)**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **HR Esophageal Manometry**: `<img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry">`
+- **24-hour pH Study**: `<i class="fa-solid fa-clock"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-microscope"></i>`
+- **Upper G.I Endoscopy (OGD)**: `<img src="assets/images/service/icon/57.png" class="ogd-icon" alt="Upper G.I Endoscopy (OGD)">`
+- **Rapid Urease Test for H.Pylori**: `<i class="fa-solid fa-biohazard"></i>`
+- **Narrow Band Imaging (NBI) – Early Cancer Detection**: `<img src="assets/images/service/icon/58.png" class="nbi-icon" alt="Narrow Band Imaging">`
+- **High Resolution Esophageal Manometry with Impedance**: `<img src="assets/images/service/icon/56.png" class="esophageal-icon" alt="HR Esophageal Manometry">`
+- **24-Hour pH Study**: `<i class="fa-solid fa-clock"></i>`
+- **Endoscopic Ultrasound (EUS)**: `<i class="fa-solid fa-satellite-dish"></i>`
+- **Barium/Gastrograffin Swallow &amp; Follow-through Studies**: `<i class="fa-solid fa-flask"></i>`
+- **Ultrasound of Abdomen (USG)**: `<i class="fa-solid fa-stomach"></i>`
+- **Multidetector CT Scan – Cancer Specific Protocols**: `<i class="fa-solid fa-x-ray"></i>`
+
+### urology.php
+- **Advanced Urodynamic Studies**: `<i class="fa-solid fa-gauge-high"></i>`
+- **Flexible Cystoscopy**: `<i class="fa-solid fa-eye"></i>`
+- **Molecular Marker Testing**: `<i class="fa-solid fa-dna"></i>`

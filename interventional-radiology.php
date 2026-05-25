@@ -731,7 +731,7 @@
 
                         <!-- Innovation Highlight banner -->
                         <div class="ugi-highlight-banner">
-                            <i class="fa-solid fa-microscope"></i>
+                            <i class="fa-solid fa-bullseye"></i>
                             <div>
                                 <strong>Minimally Invasive Excellence</strong>
                                 <p>Perform complex diagnostic and therapeutic procedures through pinhole access with no sutures, no scars, and rapid return to daily activities.</p>
@@ -743,7 +743,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-liver"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-briefcase-medical"></i></span>
                                         <h5>Hepatobiliary Interventions</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -778,7 +778,7 @@
                         <h3 class="title pt-5">Advanced Imaging Suite</h3>
                         <div class="ugi-diag-grid">
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-circle-nodes"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-x-ray"></i></div>
                                 <p>Multi-Detector CT</p>
                             </div>
                             <div class="ugi-diag-card">

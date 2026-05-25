@@ -759,7 +759,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card ugi-info-card--green">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-microscope"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-hand-holding-medical"></i></span>
                                         <h5>Elective Interventions</h5>
                                     </div>
                                     <ul class="ugi-card-list">

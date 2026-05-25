@@ -188,7 +188,7 @@
                         </div>
                         
                         <div class="single-dev-point mb--30 wow fadeInUp" data-wow-delay=".5s">
-                            <h5 class="mb--10" style="color: #1a4f32; font-weight: 700;"><i class="fa-solid fa-microscope mr--10"></i>Dr. Palanivelu – A Visionary in Surgery</h5>
+                            <h5 class="mb--10" style="color: #1a4f32; font-weight: 700;"><i class="fa-solid fa-user-doctor mr--10"></i>Dr. Palanivelu – A Visionary in Surgery</h5>
                             <p class="disc">Dr. Palanivelu pioneered laparoscopic surgery in South India, revolutionizing medical practices. His use of minimally invasive techniques across various surgeries, including cancer, has reshaped surgical care and set new standards in healthcare..</p>
                         </div>
 
@@ -228,7 +228,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".1s">
                     <div class="specialty-card-two">
                         <div class="icon-wrapper">
-                            <i class="fa-regular fa-microscope"></i>
+                            <i class="fa-solid fa-video"></i>
                         </div>
                         <h5 class="title">Laparoscopic Surgery</h5>
                     </div>

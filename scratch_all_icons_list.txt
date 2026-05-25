@@ -1,0 +1,1958 @@
+========================================
+FILE: about.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-bullseye-arrow
+  Prefix: fa-solid | Icon: fa-eye
+  Prefix: fa-solid | Icon: fa-award
+  Prefix: fa-solid | Icon: fa-user-doctor mr--10
+  Prefix: fa-solid | Icon: fa-hand-holding-heart mr--10
+  Prefix: fa-solid | Icon: fa-bolt mr--10
+  Prefix: fa-solid | Icon: fa-medal mr--10
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-user-md
+  Prefix: fa-regular | Icon: fa-microchip
+  Prefix: fa-solid | Icon: fa-notes-medical
+  Prefix: fa-solid | Icon: fa-heart
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-user-md
+  Prefix: fa-regular | Icon: fa-hospital
+  Prefix: fa-solid | Icon: fa-hospital
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-bullseye-arrow
+  Class: fa-solid fa-eye
+  Class: fa-solid fa-award
+  Class: fa-solid fa-user-doctor mr--10
+  Class: fa-solid fa-hand-holding-heart mr--10
+  Class: fa-solid fa-bolt mr--10
+  Class: fa-solid fa-medal mr--10
+  Class: fa-solid fa-video
+  Class: fa-solid fa-user-md
+  Class: fa-regular fa-microchip
+  Class: fa-solid fa-notes-medical
+  Class: fa-solid fa-heart
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-user-md
+  Class: fa-regular fa-hospital
+  Class: fa-solid fa-hospital
+
+========================================
+FILE: advanced-endoscopy.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-trophy
+  Prefix: fa-solid | Icon: fa-notes-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hospital
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-bolt
+  Prefix: fa-solid | Icon: fa-magnifying-glass-plus
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hand-holding-heart
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-award
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-trophy
+  Class: fa-solid fa-notes-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hospital
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-video
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-bolt
+  Class: fa-solid fa-magnifying-glass-plus
+  Class: fa-solid fa-video
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hand-holding-heart
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-award
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: anesthesia-and-pain-clinic.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-hand-holding-heart
+  Prefix: fa-solid | Icon: fa-user-nurse
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-bolt
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-bullseye
+  Prefix: fa-solid | Icon: fa-tower-broadcast
+  Prefix: fa-solid | Icon: fa-droplet
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-hand-holding-heart
+  Class: fa-solid fa-user-nurse
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-bolt
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-bullseye
+  Class: fa-solid fa-tower-broadcast
+  Class: fa-solid fa-droplet
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: cardiology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-heart-pulse
+  Prefix: fa-solid | Icon: fa-stretcher
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hand-holding-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-stopwatch
+  Prefix: fa-solid | Icon: fa-heart-circle-check
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-heart-pulse
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-heart-pulse
+  Class: fa-solid fa-stretcher
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hand-holding-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-stopwatch
+  Class: fa-solid fa-heart-circle-check
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-heart-pulse
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: colorectal-surgery.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-bolt-lightning
+  Prefix: fa-solid | Icon: fa-ribbon
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-bolt-lightning
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-clock
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-flask
+  Prefix: fa-solid | Icon: fa-stomach
+  Prefix: fa-solid | Icon: fa-x-ray
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: robotic-icon
+  Img Class: laparoscopic-icon
+  Img Class: anal-icon
+  Img Class: ogd-icon
+  Img Class: nbi-icon
+  Img Class: esophageal-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-bolt-lightning
+  Class: fa-solid fa-ribbon
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-bolt-lightning
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-video
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-clock
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-flask
+  Class: fa-solid fa-stomach
+  Class: fa-solid fa-x-ray
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: diabetes-general-medicine.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-trophy
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-shield-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-clock
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-flask
+  Prefix: fa-solid | Icon: fa-stomach
+  Prefix: fa-solid | Icon: fa-x-ray
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: ogd-icon
+  Img Class: nbi-icon
+  Img Class: esophageal-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-trophy
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-shield-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-clock
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-flask
+  Class: fa-solid fa-stomach
+  Class: fa-solid fa-x-ray
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: digestive-cancer-care.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-ribbon
+  Prefix: fa-solid | Icon: fa-disease
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-laptop-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: nbi-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-ribbon
+  Class: fa-solid fa-disease
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-laptop-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: doctor-details.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-phone me-2
+  Prefix: fa-brands | Icon: fa-whatsapp me-2
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-phone me-2
+  Class: fa-brands fa-whatsapp me-2
+
+========================================
+FILE: doctor.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+
+========================================
+FILE: emergency-medicine.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-truck-medical
+  Prefix: fa-solid | Icon: fa-house-medical-circle-exclamation
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hospital-user
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-ambulance
+  Prefix: fa-solid | Icon: fa-flask-vial
+  Prefix: fa-solid | Icon: fa-bed-pulse
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-clock-rotate-left
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-truck-medical
+  Class: fa-solid fa-house-medical-circle-exclamation
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hospital-user
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-ambulance
+  Class: fa-solid fa-flask-vial
+  Class: fa-solid fa-bed-pulse
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-clock-rotate-left
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: footer.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-brands | Icon: fa-facebook-f
+  Prefix: fa-brands | Icon: fa-instagram
+  Prefix: fa-brands | Icon: fa-whatsapp
+  Prefix: fa-solid | Icon: fa-chevron-up
+  Prefix: fa-brands | Icon: fa-whatsapp
+  Prefix: fa-regular | Icon: fa-phone
+  Prefix: fa-brands | Icon: fa-whatsapp
+  Prefix: fa-regular | Icon: fa-calendar-check
+--- Other Class Icons ---
+  Class: fa-brands fa-facebook-f
+  Class: fa-brands fa-instagram
+  Class: fa-brands fa-whatsapp
+  Class: fa-solid fa-chevron-up
+  Class: fa-brands fa-whatsapp
+  Class: fa-regular fa-phone
+  Class: fa-brands fa-whatsapp
+  Class: fa-regular fa-calendar-check
+
+========================================
+FILE: gem-bariatric-surgery.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-award
+  Prefix: fa-solid | Icon: fa-weight-scale
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-heart-pulse
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-diagram-project
+  Prefix: fa-solid | Icon: fa-arrows-split-up-and-left
+  Prefix: fa-solid | Icon: fa-person-walking
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-award
+  Class: fa-solid fa-weight-scale
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-heart-pulse
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-diagram-project
+  Class: fa-solid fa-arrows-split-up-and-left
+  Class: fa-solid fa-person-walking
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: general-surgery.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-hand-holding-medical
+  Prefix: fa-solid | Icon: fa-scalpel-line-dotted
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-microscope
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-laptop-medical
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-briefcase-medical
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-hand-holding-medical
+  Class: fa-solid fa-scalpel-line-dotted
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-microscope
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-laptop-medical
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-briefcase-medical
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: header.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-brands | Icon: fa-facebook-f
+  Prefix: fa-brands | Icon: fa-x-twitter
+  Prefix: fa-brands | Icon: fa-youtube
+  Prefix: fa-brands | Icon: fa-linkedin-in
+--- Other Class Icons ---
+  Class: fa-brands fa-facebook-f
+  Class: fa-brands fa-x-twitter
+  Class: fa-brands fa-youtube
+  Class: fa-brands fa-linkedin-in
+
+========================================
+FILE: hepatology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-hand-holding-medical
+  Prefix: fa-solid | Icon: fa-virus
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-flask
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hand-holding-medical
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-hand-holding-medical
+  Class: fa-solid fa-virus
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-flask
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hand-holding-medical
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: hernia.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-shield-halved
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-laptop-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-clipboard-list
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-shield-halved
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-laptop-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-clipboard-list
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: hpb-surgery.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-laptop-medical
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-bacteria
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-wand-magic-sparkles
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-bolt
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-clock
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-flask
+  Prefix: fa-solid | Icon: fa-stomach
+  Prefix: fa-solid | Icon: fa-x-ray
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: robotic-icon
+  Img Class: ogd-icon
+  Img Class: nbi-icon
+  Img Class: esophageal-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-laptop-medical
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-bacteria
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-wand-magic-sparkles
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-bolt
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-clock
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-flask
+  Class: fa-solid fa-stomach
+  Class: fa-solid fa-x-ray
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: ibd-clinic.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-syringe
+  Prefix: fa-solid | Icon: fa-disease
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hospital-user
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-capsules
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hand-holding-heart
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-syringe
+  Class: fa-solid fa-disease
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hospital-user
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-video
+  Class: fa-solid fa-capsules
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hand-holding-heart
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: index.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-regular | Icon: fa-chevron-right
+  Prefix: fa-regular | Icon: fa-chevron-left
+  Prefix: fa-regular | Icon: fa-chevron-right
+  Prefix: fa-regular | Icon: fa-chevron-left
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right ml--10
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-light | Icon: fa-check
+  Prefix: fa-solid | Icon: fa-circle-check text-primary mr--15
+  Prefix: fa-solid | Icon: fa-circle-check text-primary mr--15
+  Prefix: fa-solid | Icon: fa-circle-check text-primary mr--15
+  Prefix: fa-solid | Icon: fa-circle-check text-primary mr--15
+  Prefix: fa-brands | Icon: fa-facebook-f
+  Prefix: fa-brands | Icon: fa-linkedin-in
+  Prefix: fa-brands | Icon: fa-youtube
+  Prefix: fa-brands | Icon: fa-twitter
+  Prefix: fa-brands | Icon: fa-facebook-f
+  Prefix: fa-brands | Icon: fa-linkedin-in
+  Prefix: fa-brands | Icon: fa-youtube
+  Prefix: fa-brands | Icon: fa-twitter
+  Prefix: fa-brands | Icon: fa-facebook-f
+  Prefix: fa-brands | Icon: fa-linkedin-in
+  Prefix: fa-brands | Icon: fa-youtube
+  Prefix: fa-brands | Icon: fa-twitter
+  Prefix: fa-brands | Icon: fa-facebook-f
+  Prefix: fa-brands | Icon: fa-linkedin-in
+  Prefix: fa-brands | Icon: fa-youtube
+  Prefix: fa-brands | Icon: fa-twitter
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-user
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-user
+  Prefix: fa-light | Icon: fa-arrow-left
+  Prefix: fa-light | Icon: fa-arrow-right
+  Prefix: fa-solid | Icon: fa-arrow-right ml--10
+  Prefix: fa-light | Icon: fa-location-dot
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-regular | Icon: fa-star
+  Prefix: fa-light | Icon: fa-location-dot
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-regular | Icon: fa-star
+--- Other Class Icons ---
+  Class: fa-regular fa-chevron-right
+  Class: fa-regular fa-chevron-left
+  Class: fa-regular fa-chevron-right
+  Class: fa-regular fa-chevron-left
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right
+  Class: fa-solid fa-arrow-right ml--10
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-light fa-check
+  Class: fa-solid fa-circle-check text-primary mr--15
+  Class: fa-solid fa-circle-check text-primary mr--15
+  Class: fa-solid fa-circle-check text-primary mr--15
+  Class: fa-solid fa-circle-check text-primary mr--15
+  Class: fa-brands fa-facebook-f
+  Class: fa-brands fa-linkedin-in
+  Class: fa-brands fa-youtube
+  Class: fa-brands fa-twitter
+  Class: fa-brands fa-facebook-f
+  Class: fa-brands fa-linkedin-in
+  Class: fa-brands fa-youtube
+  Class: fa-brands fa-twitter
+  Class: fa-brands fa-facebook-f
+  Class: fa-brands fa-linkedin-in
+  Class: fa-brands fa-youtube
+  Class: fa-brands fa-twitter
+  Class: fa-brands fa-facebook-f
+  Class: fa-brands fa-linkedin-in
+  Class: fa-brands fa-youtube
+  Class: fa-brands fa-twitter
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-user
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-user
+  Class: fa-light fa-arrow-left
+  Class: fa-light fa-arrow-right
+  Class: fa-solid fa-arrow-right ml--10
+  Class: fa-light fa-location-dot
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-regular fa-star
+  Class: fa-light fa-location-dot
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-solid fa-star
+  Class: fa-regular fa-star
+
+========================================
+FILE: infrastructure.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-robot
+  Prefix: fa-solid | Icon: fa-bed-pulse
+  Prefix: fa-solid | Icon: fa-microscope
+  Prefix: fa-solid | Icon: fa-baby-carriage
+  Prefix: fa-solid | Icon: fa-kidney
+  Prefix: fa-solid | Icon: fa-flask-vial
+  Prefix: fa-solid | Icon: fa-truck-medical
+  Prefix: fa-solid | Icon: fa-ambulance
+  Prefix: fa-solid | Icon: fa-pills
+  Prefix: fa-solid | Icon: fa-utensils
+  Prefix: fa-solid | Icon: fa-dumbbell
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-robot
+  Class: fa-solid fa-bed-pulse
+  Class: fa-solid fa-microscope
+  Class: fa-solid fa-baby-carriage
+  Class: fa-solid fa-kidney
+  Class: fa-solid fa-flask-vial
+  Class: fa-solid fa-truck-medical
+  Class: fa-solid fa-ambulance
+  Class: fa-solid fa-pills
+  Class: fa-solid fa-utensils
+  Class: fa-solid fa-dumbbell
+
+========================================
+FILE: interventional-radiology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-bullseye
+  Prefix: fa-solid | Icon: fa-briefcase-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-magnet
+  Prefix: fa-solid | Icon: fa-atom
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-radiation
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-bullseye
+  Class: fa-solid fa-briefcase-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-magnet
+  Class: fa-solid fa-atom
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-radiation
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: master-health-checkup.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-heart-pulse
+  Prefix: fa-solid | Icon: fa-clipboard-list
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-notes-medical
+  Prefix: fa-solid | Icon: fa-user-check
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hand-holding-heart
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-heart-pulse
+  Class: fa-solid fa-clipboard-list
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-notes-medical
+  Class: fa-solid fa-user-check
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hand-holding-heart
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: medical-gastroenterology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-bolt-lightning
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-circle-nodes
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-bolt-lightning
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-video
+  Class: fa-solid fa-circle-nodes
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: medical-oncology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-trophy
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-shield-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-clock
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-flask
+  Prefix: fa-solid | Icon: fa-stomach
+  Prefix: fa-solid | Icon: fa-x-ray
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: ogd-icon
+  Img Class: nbi-icon
+  Img Class: esophageal-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-trophy
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-shield-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-clock
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-flask
+  Class: fa-solid fa-stomach
+  Class: fa-solid fa-x-ray
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: multi-organ-transplant.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-laptop-medical
+  Prefix: fa-solid | Icon: fa-hospital-user
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-kit-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-bed-pulse
+  Prefix: fa-solid | Icon: fa-dna
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: robotic-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-laptop-medical
+  Class: fa-solid fa-hospital-user
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-kit-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-bed-pulse
+  Class: fa-solid fa-dna
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: nephrology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-hospital-user
+  Prefix: fa-solid | Icon: fa-briefcase-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-flask-vial
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-magnifying-glass-chart
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-hand-holding-medical
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-hospital-user
+  Class: fa-solid fa-briefcase-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-flask-vial
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-magnifying-glass-chart
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-hand-holding-medical
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: obstetrics-gynaecology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-venus
+  Prefix: fa-solid | Icon: fa-baby
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-procedures
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-video
+  Prefix: fa-solid | Icon: fa-dna
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-female
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-venus
+  Class: fa-solid fa-baby
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-procedures
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-video
+  Class: fa-solid fa-video
+  Class: fa-solid fa-dna
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-female
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: robotic-surgery.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-robot
+  Prefix: fa-solid | Icon: fa-crosshairs
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-user-shield
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-dna
+  Prefix: fa-solid | Icon: fa-weight-hanging
+  Prefix: fa-solid | Icon: fa-shield-halved
+  Prefix: fa-solid | Icon: fa-diagram-project
+  Prefix: fa-solid | Icon: fa-arrows-to-circle
+  Prefix: fa-solid | Icon: fa-hand-holding-medical
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-robot
+  Class: fa-solid fa-crosshairs
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-user-shield
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-dna
+  Class: fa-solid fa-weight-hanging
+  Class: fa-solid fa-shield-halved
+  Class: fa-solid fa-diagram-project
+  Class: fa-solid fa-arrows-to-circle
+  Class: fa-solid fa-hand-holding-medical
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: upper-gi-surgery.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-trophy
+  Prefix: fa-solid | Icon: fa-stethoscope
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-shield-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-clock
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-circle-dot
+  Prefix: fa-solid | Icon: fa-vial
+  Prefix: fa-solid | Icon: fa-clock
+  Prefix: fa-solid | Icon: fa-wave-square
+  Prefix: fa-solid | Icon: fa-flask
+  Prefix: fa-solid | Icon: fa-stomach
+  Prefix: fa-solid | Icon: fa-x-ray
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-scalpel
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Image Icons ---
+  Img Class: ogd-icon
+  Img Class: nbi-icon
+  Img Class: esophageal-icon
+  Img Class: ogd-icon
+  Img Class: nbi-icon
+  Img Class: esophageal-icon
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-trophy
+  Class: fa-solid fa-stethoscope
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-shield-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-clock
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-circle-dot
+  Class: fa-solid fa-vial
+  Class: fa-solid fa-clock
+  Class: fa-solid fa-wave-square
+  Class: fa-solid fa-flask
+  Class: fa-solid fa-stomach
+  Class: fa-solid fa-x-ray
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-scalpel
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line
+
+========================================
+FILE: urology.php
+========================================
+--- FontAwesome Icons ---
+  Prefix: fa-solid | Icon: fa-chevron-right
+  Prefix: fa-solid | Icon: fa-bullseye
+  Prefix: fa-solid | Icon: fa-file-medical
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-shield-virus
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-gauge-high
+  Prefix: fa-solid | Icon: fa-eye
+  Prefix: fa-solid | Icon: fa-dna
+  Prefix: fa-solid | Icon: fa-heartbeat
+  Prefix: fa-solid | Icon: fa-calendar-plus
+  Prefix: fa-solid | Icon: fa-star
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-circle-check
+  Prefix: fa-solid | Icon: fa-user-shield
+  Prefix: fa-solid | Icon: fa-user-doctor
+  Prefix: fa-solid | Icon: fa-chart-line
+--- Other Class Icons ---
+  Class: fa-solid fa-chevron-right
+  Class: fa-solid fa-bullseye
+  Class: fa-solid fa-file-medical
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-shield-virus
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-gauge-high
+  Class: fa-solid fa-eye
+  Class: fa-solid fa-dna
+  Class: fa-solid fa-heartbeat
+  Class: fa-solid fa-calendar-plus
+  Class: fa-solid fa-star
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-circle-check
+  Class: fa-solid fa-user-shield
+  Class: fa-solid fa-user-doctor
+  Class: fa-solid fa-chart-line

@@ -744,7 +744,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-microscope"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-crosshairs"></i></span>
                                         <h5>Surgical Precision</h5>
                                     </div>
                                     <ul class="ugi-card-list">
@@ -785,11 +785,11 @@
                                 <p>Robotic Bariatric Surgery</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-stomach"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-shield-halved"></i></div>
                                 <p>Robotic Hernia Repair</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-liver"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-diagram-project"></i></div>
                                 <p>Robotic HPB Surgery</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -797,7 +797,7 @@
                                 <p>Robotic Colorectal Surgery</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-hand-dots"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-hand-holding-medical"></i></div>
                                 <p>Complex Reconstructions</p>
                             </div>
                         </div>

@@ -866,7 +866,7 @@
                                 <p>Upper G.I Endoscopy (OGD)</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-biohazard"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-vial"></i></div>
                                 <p>Rapid Urease Test for H.Pylori</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -882,7 +882,7 @@
                                 <p>24-Hour pH Study</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-satellite-dish"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Endoscopic Ultrasound (EUS)</p>
                             </div>
                             <div class="ugi-diag-card">
@@ -890,7 +890,7 @@
                                 <p>Barium/Gastrograffin Swallow &amp; Follow-through Studies</p>
                             </div>
                             <div class="ugi-diag-card">
-                                <div class="ugi-diag-icon"><i class="fa-solid fa-stomach"></i></div>
+                                <div class="ugi-diag-icon"><i class="fa-solid fa-wave-square"></i></div>
                                 <p>Ultrasound of Abdomen (USG)</p>
                             </div>
                             <div class="ugi-diag-card">

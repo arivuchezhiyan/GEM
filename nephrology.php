@@ -743,7 +743,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="ugi-info-card">
                                     <div class="ugi-info-card-head">
-                                        <span class="ugi-card-icon"><i class="fa-solid fa-kidneys"></i></span>
+                                        <span class="ugi-card-icon"><i class="fa-solid fa-briefcase-medical"></i></span>
                                         <h5>Conditions We Treat</h5>
                                     </div>
                                     <ul class="ugi-card-list">
